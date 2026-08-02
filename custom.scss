@@ -40,10 +40,13 @@ body {
   width: auto !important;
 }
 
-/* Hide first/navbar title text next to logo as requested */
-.navbar-brand .navbar-title,
-.navbar-title {
-  display: none !important;
+/* Ensure navbar title text next to logo is visible */
+.navbar-brand .navbar-title {
+  display: inline-block !important;
+  font-family: 'EB Garamond', serif !important;
+  font-size: 1.35rem !important;
+  color: #1c1c1c !important;
+  font-weight: 500 !important;
 }
 
 .nav-link {
