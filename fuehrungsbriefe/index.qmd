@@ -1,0 +1,53 @@
+---
+title: "Führungsbriefe"
+subtitle: "Philosophie und Methodik der Unternehmens-Evolution"
+format: html
+---
+
+<p class="lead-text mb-4">
+  Der Führungsbrief <em>"Philosophie und Methodik der Unternehmens-Evolution"</em> von Dr. Manfred Sliwka gliedert sich in drei zentrale Bausteine:
+</p>
+
+<div class="row row-cols-1 row-cols-md-3 g-4 my-2">
+  <div class="col">
+    <div class="card h-100 border-primary">
+      <div class="card-body">
+        <h3 class="card-title h5 text-primary">A. Die Führungs-Philosophie</h3>
+        <p class="card-text small">
+          Grundlegende Erkenntnisse aus der Evolutionsforschung übertragen auf die moderne Führung von Unternehmen und Organisationen.
+        </p>
+      </div>
+      <div class="card-footer bg-transparent border-0">
+        <a href="a-die-fuehrungs-philosophie.html" class="btn btn-outline-primary btn-sm w-100">Zum Teil A &rarr;</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="card h-100 border-primary">
+      <div class="card-body">
+        <h3 class="card-title h5 text-primary">B. Die Führungs-Methode</h3>
+        <p class="card-text small">
+          Die sieben Wertfelder des Führungskönnens – Methodische Werkzeuge für erfolgreiche Unternehmens-Evolution.
+        </p>
+      </div>
+      <div class="card-footer bg-transparent border-0">
+        <a href="b-die-fuehrungs-methode.html" class="btn btn-outline-primary btn-sm w-100">Zum Teil B &rarr;</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="card h-100 border-primary">
+      <div class="card-body">
+        <h3 class="card-title h5 text-primary">C. Die Führungs-Instrumente</h3>
+        <p class="card-text small">
+          Der Instrumentenkasten – Konkrete Arbeitsmittel und Werkzeuge für den Führungsalltag.
+        </p>
+      </div>
+      <div class="card-footer bg-transparent border-0">
+        <a href="c-die-fuehrungs-instrumente.html" class="btn btn-outline-primary btn-sm w-100">Zum Teil C &rarr;</a>
+      </div>
+    </div>
+  </div>
+</div>

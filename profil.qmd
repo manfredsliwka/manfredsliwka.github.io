@@ -1,0 +1,40 @@
+---
+title: "Profil"
+subtitle: "Dr. Manfred Sliwka"
+format: html
+---
+
+<div class="row mt-4">
+  <div class="col-md-8">
+    <h2 class="text-primary mb-3">Profil von Dr. Manfred Sliwka</h2>
+
+    <p class="lead-text">
+      <strong>MANFRED SLIWKA</strong> war promovierter Ökonom und Unternehmensberater mit dem Arbeitsschwerpunkt Führungsphilosophie und Unternehmenskultur.
+    </p>
+
+    <p>
+      Als Herausgeber des Führungsbriefes <em>"Philosophie und Methodik der Unternehmens-Evolution"</em> und Autor zahlreicher Publikationen regte er ein neues Nachdenken über Führung und Verantwortung im Wirtschaftssystem an.
+    </p>
+
+    <div class="author-card my-4">
+      <h3 class="h5 text-primary mb-2">Veröffentlichungen & Wirken</h3>
+      <ul>
+        <li>Veröffentlichungen u. a. im <em>Harvard Manager</em> ("Wenn Manager bei der Evolution in die Lehre gehen") und der <em>Frankfurter Allgemeine Zeitung</em> ("Die Evolutionslehre im Management").</li>
+        <li>Buchautor zahlreicher Werke zur Unternehmens-Evolution, Werteorientierung und Philosophie für Führungskräfte sowie junge Menschen.</li>
+        <li>1996 Berufung in den <strong>"Club of Vienna"</strong>, das internationale Expertenteam, das evolutionäre Wachstumsprozesse in Wirtschaft und Gesellschaft untersucht.</li>
+      </ul>
+    </div>
+
+    <p class="text-muted" style="font-style: italic;">
+      Manfred Sliwka ist am 9. Dezember 2009 gestorben. Seine Gedanken und Werke zur Evolutionslehre im Management wirken fort.
+    </p>
+  </div>
+
+  <div class="col-md-4">
+    <div class="text-center p-3 bg-light border rounded">
+      <img src="assets/dr-manfred-sliwka.png" alt="Dr. Manfred Sliwka" class="img-fluid rounded mb-3" style="max-width: 180px;">
+      <h4 class="h5 text-primary">Dr. Manfred Sliwka</h4>
+      <p class="small text-muted">Ökonom, Unternehmensberater & Buchautor</p>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,98 @@
+/*-- scss:defaults --*/
+
+$primary: #1c4587 !default;
+$navbar-bg: #1c4587 !default;
+$navbar-fg: #ffffff !default;
+$body-bg: #fdfdfd !default;
+$body-color: #1c1c1c !default;
+
+/*-- scss:rules --*/
+
+.navbar {
+  background-color: #1c4587 !important;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+}
+
+.navbar-brand, .nav-link {
+  font-family: 'Google Sans', 'Roboto', sans-serif !important;
+  font-weight: 500;
+}
+
+body {
+  font-family: 'EB Garamond', Georgia, serif;
+  color: #1c1c1c;
+  background-color: #fdfdfd;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'EB Garamond', Georgia, serif;
+  color: #1c4587;
+  font-weight: 600;
+}
+
+.site-header-banner {
+  background-color: #1c4587;
+  color: #ffffff;
+  padding: 2.5rem 1.5rem;
+  margin-bottom: 2rem;
+  border-radius: 4px;
+}
+
+.site-header-banner h1 {
+  color: #ffffff;
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+.author-card {
+  background: #f8f9fa;
+  border-left: 4px solid #1c4587;
+  padding: 1.5rem;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.author-card img {
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+}
+
+.quote-card {
+  background: #ffffff;
+  border: 1px solid #e9ecef;
+  border-left: 3px solid #1c4587;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.25rem;
+  border-radius: 4px;
+  font-style: italic;
+
+  .quote-author {
+    font-style: normal;
+    font-weight: bold;
+    color: #1c4587;
+    margin-bottom: 0.5rem;
+    font-family: 'Google Sans', sans-serif;
+  }
+}
+
+.book-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  height: 100%;
+}
+
+.book-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.book-cover {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16);
+}

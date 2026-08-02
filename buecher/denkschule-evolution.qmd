@@ -1,0 +1,60 @@
+---
+title: "Denkschule Evolution"
+subtitle: "Dr. Manfred Sliwka"
+format: html
+---
+
+<div class="row mt-4">
+  <div class="col-md-4 text-center mb-4">
+    <img src="../assets/denkschule-evolution.png" alt="Denkschule Evolution" class="img-fluid rounded shadow" style="max-width: 250px;">
+  </div>
+  
+  <div class="col-md-8">
+    <h2 class="text-primary mb-3">Denkschule Evolution</h2>
+    
+    <p class="lead-text">
+      Die Evolution ist die universelle und am längsten bewährte Entwicklungsmethode der Welt. Das Ergebnis dieses Entwicklungsprozesses ist das Gedeihen des Lebens in einer ungeheuren Vielfalt und Fülle. Menschen, die Entwicklungsverantwortung tragen für Unternehmen oder politische und gesellschaftliche Institutionen, können bei der Evolution in die Lehre gehen.
+    </p>
+
+    <h3 class="h4 text-primary mt-4 mb-3">Stimmen von Lesern & Persönlichkeiten</h3>
+
+    <div class="quote-card">
+      <div class="quote-author">Email an den Autor</div>
+      <p class="mb-0">
+        "Exzellente Struktur, wertvolle Begrifflichkeiten, ein geistiger Werkzeugkasten von hohem Wert. Dank und Glückwunsch."
+      </p>
+    </div>
+
+    <div class="quote-card">
+      <div class="quote-author">Frau Prof. Dr. Elisabeth Noelle (Institut für Demoskopie Allensbach)</div>
+      <p class="mb-0">
+        "Die Kerngedanken Ihres Buches beschäftigen auch mich: Die 'Wertfelder', von denen Sie sprechen, verändern sich ja tatsächlich, und wir müssen immer neu lernen, was lebensdienlich ist. Gerade Menschen in Führungsverantwortung können viel dazu beitragen, dass auch andere ihre Kräfte 'ausfalten', wie der von Ihnen geschätzte Nicolaus von Cues sagt."
+      </p>
+    </div>
+
+    <div class="quote-card">
+      <div class="quote-author">Prof. Dr. Hans Küng, Tübingen (Gründer der Stiftung "Weltethos")</div>
+      <p class="mb-0">
+        "... danke ich Ihnen für Ihr sehr interessantes Buch 'Denkschule Evolution'. Sie haben da einen sehr interessanten neuen Zugang zur Wertefrage in der Wirtschaft geschrieben. Ich werde mich sicher noch mehr damit beschäftigen können."
+      </p>
+    </div>
+
+    <div class="quote-card">
+      <div class="quote-author">Peter-Michael Thom (Vorsitzender des Vorstandes Gesellschaft zur Erforschung des Markenwesens e.V.)</div>
+      <p class="mb-0">
+        "Die inhaltliche Struktur der Themenaufbereitung, wie auch der angenehm sprech-deutsch gehaltene Schreibstil heben sich in wohltuender Weise von verklausulierten, um nicht zu sagen, manchmal verquasten, wissenschaftlichen Formulierungen ab."
+      </p>
+    </div>
+
+    <div class="quote-card">
+      <div class="quote-author">Rainer Scheerer</div>
+      <p class="mb-0">
+        "Das ist mit Abstand eines der besten Bücher, die ich überhaupt gelesen habe. Das Thema wird klar erläutert und am Ende jedes Kapitels mit einer Quintessenz zusammengefasst. Denkschule!"
+      </p>
+    </div>
+
+    <div class="mt-4">
+      <a href="index.html" class="btn btn-outline-secondary">&larr; Zurück zur Bücher-Übersicht</a>
+    </div>
+  </div>
+</div>

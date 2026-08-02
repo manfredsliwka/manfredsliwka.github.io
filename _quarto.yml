@@ -1,0 +1,70 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "index.qmd"
+    - "profil.qmd"
+    - "impressum.qmd"
+    - "buecher/*.qmd"
+    - "fuehrungsbriefe/*.qmd"
+
+website:
+  title: "Dr. Manfred Sliwka"
+  site-url: "https://manfredsliwka.github.io"
+  navbar:
+    background: "#1c4587"
+    foreground: "#ffffff"
+    search: false
+    left:
+      - text: "Startseite"
+        href: index.qmd
+      - text: "Profil"
+        href: profil.qmd
+      - text: "Bücher"
+        menu:
+          - text: "Übersicht Bücher"
+            href: buecher/index.qmd
+          - text: "--------------------"
+          - text: "Das Abenteuer des Werdens"
+            href: buecher/das-abenteuer-des-werdens.qmd
+          - text: "Die Praxis der Unternehmens-Evolution"
+            href: buecher/die-praxis-der-unternehmens-evolution.qmd
+          - text: "Opa, kannst du mir den Urknall erklären?"
+            href: buecher/opa-kannst-du-mir-den-urknall-erklaeren.qmd
+          - text: "Denkschule Evolution"
+            href: buecher/denkschule-evolution.qmd
+          - text: "Raubtier-Strategie oder Faultier-Intelligenz?"
+            href: buecher/raubtier-strategie-oder-faultier-intelligenz.qmd
+      - text: "Führungsbriefe"
+        menu:
+          - text: "Übersicht Führungsbriefe"
+            href: fuehrungsbriefe/index.qmd
+          - text: "--------------------"
+          - text: "A. Die Führungs-Philosophie"
+            href: fuehrungsbriefe/a-die-fuehrungs-philosophie.qmd
+          - text: "B. Die Führungs-Methode"
+            href: fuehrungsbriefe/b-die-fuehrungs-methode.qmd
+          - text: "C. Die Führungs-Instrumente"
+            href: fuehrungsbriefe/c-die-fuehrungs-instrumente.qmd
+      - text: "Impressum"
+        href: impressum.qmd
+
+  page-footer:
+    left: "© Dr. Manfred Sliwka | Quarto Website"
+    right: 'Original: <a href="https://sites.google.com/view/manfredsliwka/" target="_blank">Google Site Manfred Sliwka</a>'
+
+format:
+  html:
+    theme:
+      light: [cosmo, custom.scss]
+    css: styles.css
+    toc: false
+    mainfont: "EB Garamond, Georgia, serif"
+    sansfont: "Google Sans, Roboto, sans-serif"
+    fontsize: "1.1rem"
+    linestretch: "1.6"
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Google+Sans:wght@400;500;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">

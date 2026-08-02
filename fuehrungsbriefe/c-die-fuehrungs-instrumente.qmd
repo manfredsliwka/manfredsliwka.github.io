@@ -1,0 +1,33 @@
+---
+title: "C. Die Führungs-Instrumente"
+subtitle: "Der Instrumentenkasten – Dr. Manfred Sliwka"
+format: html
+---
+
+<div class="row mt-4">
+  <div class="col-md-9">
+    <h2 class="text-primary mb-3">C. Die Führungs-Instrumente: Der Instrumentenkasten</h2>
+    
+    <p class="lead-text">
+      Der Instrumentenkasten bietet Führungskräften praktische Werkzeuge zur Umsetzung der Evolutionsmethode im Führungsalltag.
+    </p>
+
+    <p>
+      Die Instrumente unterstützen Manager dabei, Potenziale systematisch zu analysieren, Wertfelder zu steuern und Weiterentwicklungsprozesse im Unternehmen messbar und spürbar zu verankern.
+    </p>
+
+    <div class="author-card my-4">
+      <h3 class="h5 text-primary">Instrumente im Überblick</h3>
+      <ul>
+        <li><strong>Wertfeld-Analyse:</strong> Standortbestimmung und Reifegradprüfung der sieben Wertfelder im Unternehmen.</li>
+        <li><strong>Evolutions-Portfolio:</strong> Bewertung von Produkten, Dienstleistungen und Geschäftsfeldern nach ihrer Zukunftsorientierung.</li>
+        <li><strong>Dialog- und Kultur-Tools:</strong> Instrumente zur Förderung von Feedback, Transparenz und Werteorientierung im Führungsalltag.</li>
+      </ul>
+    </div>
+
+    <div class="mt-4">
+      <a href="b-die-fuehrungs-methode.html" class="btn btn-outline-secondary">&larr; Zurück zu Teil B: Die Führungs-Methode</a>
+      <a href="index.html" class="btn btn-outline-primary float-end">Übersicht Führungsbriefe &rarr;</a>
+    </div>
+  </div>
+</div>

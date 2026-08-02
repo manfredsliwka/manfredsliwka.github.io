@@ -1,0 +1,31 @@
+---
+title: "Impressum"
+subtitle: "Angaben gemäß Informationspflicht"
+format: html
+---
+
+<div class="row mt-4">
+  <div class="col-md-8">
+    <h2 class="text-primary mb-3">Impressum</h2>
+
+    <div class="author-card my-4">
+      <h3 class="h5 text-primary mb-2">Website-Design & Urhebervermerk</h3>
+      <p class="mb-1">
+        Diese Website wurde designed von:
+      </p>
+      <p class="lead-text mb-0">
+        <strong>Max Lindenthal</strong><br>
+        E-Mail: <a href="mailto:max.lindenthal@outlook.de">max.lindenthal@outlook.de</a>
+      </p>
+    </div>
+
+    <h3 class="h5 text-primary mt-4 mb-2">Gedenken an Dr. Manfred Sliwka</h3>
+    <p>
+      Dr. Manfred Sliwka (gestorben am 9. Dezember 2009) war Ökonom, Unternehmensberater und Buchautor. Diese Website bewahrt sein geistiges Werk zur Denkschule der Unternehmens-Evolution und macht seine Veröffentlichungen der Öffentlichkeit zugänglich.
+    </p>
+
+    <p class="text-muted small mt-4">
+      GitHub Repository: <a href="https://github.com/manfredsliwka/manfredsliwka.github.io" target="_blank">github.com/manfredsliwka/manfredsliwka.github.io</a>
+    </p>
+  </div>
+</div>

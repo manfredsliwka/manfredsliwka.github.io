@@ -1,0 +1,53 @@
+---
+title: "Dr. Manfred Sliwka"
+subtitle: "Philosophie und Methodik der Unternehmens-Evolution"
+format: html
+---
+
+<div class="alert alert-info d-flex align-items-center mb-4" role="alert">
+  <div>
+    📌 <strong>Hinweis:</strong> Dies ist die Quarto GitHub Pages Version der ursprünglichen <a href="https://sites.google.com/view/manfredsliwka/" target="_blank" class="alert-link">Google Site von Dr. Manfred Sliwka</a>.
+  </div>
+</div>
+
+<div class="row mt-3">
+  <div class="col-md-8">
+    <h2 class="text-primary mb-3">Das erfolgreichste Unternehmen der Welt</h2>
+
+    <p class="lead-text">
+      Das erfolgreichste Unternehmen der Welt ist das Unternehmen <strong>"Leben"</strong>. Es ist vor 3,5 Milliarden Jahren als "Ein-Mann-Betrieb", die Urzelle, gegründet worden.
+    </p>
+
+    <p>
+      Es hat seine Krisen grandios gemeistert. Es hat seine Ressourcen geschont. Es hat immer neue "Produkte" (die Arten) entwickelt. Es hat immer neue "Marktnischen" besetzt. Es hat sein "Kapital" grandios gesteigert. Die große Bilanz: das Gedeihen des Lebens in einer riesigen Vielfalt und Fülle.
+    </p>
+
+    <p>
+      Die Methode, mit der dieses Großunternehmen arbeitet, ist die <strong>Evolution</strong>. Sie ist die erfolgreichste Entwicklungsmethode der Welt, die Ur-Methode schlechthin, um Zukunft zu gewinnen.
+    </p>
+
+    <p>
+      Deshalb können Manager bei der Evolution in die Lehre gehen. Das ist die entscheidende Erkenntnis, die zur Begründung der <strong>"Denkschule Evolution für Führungskräfte"</strong> geführt hat.
+    </p>
+  </div>
+
+  <div class="col-md-4">
+    <div class="author-card">
+      <div class="text-center mb-3">
+        <img src="assets/dr-manfred-sliwka.png" alt="Dr. Manfred Sliwka" class="img-fluid" style="max-width: 140px;">
+      </div>
+      <h3 class="h4 text-primary text-center mb-2">MANFRED SLIWKA</h3>
+      <p style="font-size: 0.95rem; line-height: 1.5;">
+        war promovierter Ökonom und Unternehmensberater mit dem Arbeitsschwerpunkt Führungsphilosophie und Unternehmenskultur.
+      </p>
+      <ul style="font-size: 0.9rem; padding-left: 1.2rem; margin-bottom: 0.5rem;">
+        <li>Herausgeber des Führungsbriefes <em>"Philosophie und Methodik der Unternehmens-Evolution"</em>.</li>
+        <li>Veröffentlichungen u. a. in <em>Harvard Manager</em> ("Wenn Manager bei der Evolution in die Lehre gehen") und der <em>Frankfurter Allgemeine Zeitung</em> ("Die Evolutionslehre im Management"). Buchautor.</li>
+        <li>1996 Berufung in den <strong>"Club of Vienna"</strong>, das internationale Expertenteam, das evolutionäre Wachstumsprozesse in Wirtschaft und Gesellschaft untersucht.</li>
+      </ul>
+      <p class="text-muted text-center mt-3 mb-0" style="font-size: 0.85rem; font-style: italic;">
+        Manfred Sliwka ist am 9. Dezember 2009 gestorben.
+      </p>
+    </div>
+  </div>
+</div>
