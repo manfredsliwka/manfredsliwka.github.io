@@ -1,0 +1,151 @@
+---
+title: "Bücher"
+subtitle: "Werke von Dr. Manfred Sliwka"
+format:
+  html:
+    page-layout: full
+---
+
+```{=html}
+<div class="header-hero-banner text-white mb-5" style="background: linear-gradient(135deg, #1c4587 0%, #153466 100%); padding: 3rem 2rem; border-radius: 8px; box-shadow: 0 4px 15px rgba(28, 69, 135, 0.2);">
+  <div class="container-fluid max-width-1100">
+    <h1 class="display-4 fw-bold text-white mb-2" style="font-family: 'EB Garamond', serif;">Bücher</h1>
+    <p class="fs-4 text-white-50 mb-0" style="font-family: 'Google Sans', 'Roboto', sans-serif; font-weight: 300;">Werke von Dr. Manfred Sliwka</p>
+  </div>
+</div>
+
+<div class="container-fluid max-width-1100">
+  <p class="lead-text mb-5" style="font-size: 1.3rem; line-height: 1.8; color: #2c3e50; font-family: 'EB Garamond', serif;">
+    Übersicht über die Veröffentlichungen und Bücher von Dr. Manfred Sliwka zur Unternehmens-Evolution, Führungsphilosophie und Werteorientierung.
+  </p>
+
+  <div class="row row-cols-1 row-cols-md-2 g-4 mb-5">
+
+    <!-- Book 1 -->
+    <div class="col">
+      <div class="card h-100 shadow-sm border-0" style="background: #ffffff; border-radius: 8px; border: 1px solid #e2e8f0 !important; transition: transform 0.2s, box-shadow 0.2s;">
+        <div class="card-body p-4 d-flex flex-column">
+          <div class="row align-items-center mb-3">
+            <div class="col-4 text-center">
+              <img src="../assets/das-abenteuer-des-werdens.png" alt="Das Abenteuer des Werdens" class="img-fluid rounded shadow-sm" style="max-height: 180px; object-fit: contain;">
+            </div>
+            <div class="col-8">
+              <h3 class="h5 fw-bold mb-2" style="font-family: 'EB Garamond', serif;">
+                <a href="das-abenteuer-des-werdens.html" class="text-decoration-none" style="color: #1c4587;">Das Abenteuer des Werdens</a>
+              </h3>
+              <p class="small text-muted mb-0" style="font-family: 'Google Sans', sans-serif;">Ein Buch für junge Leute und Orientierungssuchende</p>
+            </div>
+          </div>
+          <p class="small text-secondary flex-grow-1" style="font-style: italic; font-size: 0.95rem; line-height: 1.6;">
+            "Manfred Sliwka gehört zu denen, die jungen Menschen Mut machen, Lebenshilfe geben und Werte vermitteln."
+          </p>
+          <div class="mt-3">
+            <a href="das-abenteuer-des-werdens.html" class="btn btn-outline-primary btn-sm fw-bold w-100" style="color: #1c4587; border-color: #1c4587;">Mehr erfahren & Resonanz &rarr;</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Book 2 -->
+    <div class="col">
+      <div class="card h-100 shadow-sm border-0" style="background: #ffffff; border-radius: 8px; border: 1px solid #e2e8f0 !important; transition: transform 0.2s, box-shadow 0.2s;">
+        <div class="card-body p-4 d-flex flex-column">
+          <div class="row align-items-center mb-3">
+            <div class="col-4 text-center">
+              <img src="../assets/die-praxis-der-unternehmens-evolution.png" alt="Die Praxis der Unternehmens-Evolution" class="img-fluid rounded shadow-sm" style="max-height: 180px; object-fit: contain;">
+            </div>
+            <div class="col-8">
+              <h3 class="h5 fw-bold mb-2" style="font-family: 'EB Garamond', serif;">
+                <a href="die-praxis-der-unternehmens-evolution.html" class="text-decoration-none" style="color: #1c4587;">Die Praxis der Unternehmens-Evolution</a>
+              </h3>
+              <p class="small text-muted mb-0" style="font-family: 'Google Sans', sans-serif;">Philosophie und Methodik für Führungskräfte</p>
+            </div>
+          </div>
+          <p class="small text-secondary flex-grow-1" style="font-style: italic; font-size: 0.95rem; line-height: 1.6;">
+            "Aus der Evolution zu lernen ist ein Denkansatz jenseits aller modischen Führungstheorien mit beträchtlichem heuristischem und praktischem Nutzen."
+          </p>
+          <div class="mt-3">
+            <a href="die-praxis-der-unternehmens-evolution.html" class="btn btn-outline-primary btn-sm fw-bold w-100" style="color: #1c4587; border-color: #1c4587;">Mehr erfahren & Resonanz &rarr;</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Book 3 -->
+    <div class="col">
+      <div class="card h-100 shadow-sm border-0" style="background: #ffffff; border-radius: 8px; border: 1px solid #e2e8f0 !important; transition: transform 0.2s, box-shadow 0.2s;">
+        <div class="card-body p-4 d-flex flex-column">
+          <div class="row align-items-center mb-3">
+            <div class="col-4 text-center">
+              <img src="../assets/opa-kannst-du-mir-den-urknall-erklaeren.png" alt="Opa, kannst du mir den Urknall erklären?" class="img-fluid rounded shadow-sm" style="max-height: 180px; object-fit: contain;">
+            </div>
+            <div class="col-8">
+              <h3 class="h5 fw-bold mb-2" style="font-family: 'EB Garamond', serif;">
+                <a href="opa-kannst-du-mir-den-urknall-erklaeren.html" class="text-decoration-none" style="color: #1c4587;">Opa, kannst du mir den Urknall erklären?</a>
+              </h3>
+              <p class="small text-muted mb-0" style="font-family: 'Google Sans', sans-serif;">Geistreiche Antworten auf große Fragen</p>
+            </div>
+          </div>
+          <p class="small text-secondary flex-grow-1" style="font-style: italic; font-size: 0.95rem; line-height: 1.6;">
+            "Ein Kinderbuch hat er dennoch nicht verfasst, sondern eines für Erwachsene, die mit Kindern noch darüber sprechen, wie die Welt entstanden ist."
+          </p>
+          <div class="mt-3">
+            <a href="opa-kannst-du-mir-den-urknall-erklaeren.html" class="btn btn-outline-primary btn-sm fw-bold w-100" style="color: #1c4587; border-color: #1c4587;">Mehr erfahren & Pressestimmen &rarr;</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Book 4 -->
+    <div class="col">
+      <div class="card h-100 shadow-sm border-0" style="background: #ffffff; border-radius: 8px; border: 1px solid #e2e8f0 !important; transition: transform 0.2s, box-shadow 0.2s;">
+        <div class="card-body p-4 d-flex flex-column">
+          <div class="row align-items-center mb-3">
+            <div class="col-4 text-center">
+              <img src="../assets/denkschule-evolution.png" alt="Denkschule Evolution" class="img-fluid rounded shadow-sm" style="max-height: 180px; object-fit: contain;">
+            </div>
+            <div class="col-8">
+              <h3 class="h5 fw-bold mb-2" style="font-family: 'EB Garamond', serif;">
+                <a href="denkschule-evolution.html" class="text-decoration-none" style="color: #1c4587;">Denkschule Evolution</a>
+              </h3>
+              <p class="small text-muted mb-0" style="font-family: 'Google Sans', sans-serif;">Die Ur-Methode schlechthin</p>
+            </div>
+          </div>
+          <p class="small text-secondary flex-grow-1" style="font-style: italic; font-size: 0.95rem; line-height: 1.6;">
+            "Die Evolution ist die universelle Entwicklungsmethode der Welt. Ein geistiger Werkzeugkasten für Führungskräfte in Wirtschaft und Gesellschaft."
+          </p>
+          <div class="mt-3">
+            <a href="denkschule-evolution.html" class="btn btn-outline-primary btn-sm fw-bold w-100" style="color: #1c4587; border-color: #1c4587;">Mehr erfahren & Resonanz &rarr;</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Book 5 -->
+    <div class="col">
+      <div class="card h-100 shadow-sm border-0" style="background: #ffffff; border-radius: 8px; border: 1px solid #e2e8f0 !important; transition: transform 0.2s, box-shadow 0.2s;">
+        <div class="card-body p-4 d-flex flex-column">
+          <div class="row align-items-center mb-3">
+            <div class="col-4 text-center">
+              <img src="../assets/raubtier-strategie-oder-faultier-intelligenz.png" alt="Raubtier-Strategie oder Faultier-Intelligenz?" class="img-fluid rounded shadow-sm" style="max-height: 180px; object-fit: contain;">
+            </div>
+            <div class="col-8">
+              <h3 class="h5 fw-bold mb-2" style="font-family: 'EB Garamond', serif;">
+                <a href="raubtier-strategie-oder-faultier-intelligenz.html" class="text-decoration-none" style="color: #1c4587;">Raubtier-Strategie oder Faultier-Intelligenz?</a>
+              </h3>
+              <p class="small text-muted mb-0" style="font-family: 'Google Sans', sans-serif;">Appell zu werteorientiertem Handeln</p>
+            </div>
+          </div>
+          <p class="small text-secondary flex-grow-1" style="font-style: italic; font-size: 0.95rem; line-height: 1.6;">
+            "Zusammenfassende Erkenntnisse für Führungskräfte und junge Menschen – verständlich und ohne erhobenen Zeigefinger."
+          </p>
+          <div class="mt-3">
+            <a href="raubtier-strategie-oder-faultier-intelligenz.html" class="btn btn-outline-primary btn-sm fw-bold w-100" style="color: #1c4587; border-color: #1c4587;">Mehr erfahren & Pressestimmen &rarr;</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+```

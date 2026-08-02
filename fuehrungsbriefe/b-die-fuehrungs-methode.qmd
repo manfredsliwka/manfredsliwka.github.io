@@ -1,0 +1,80 @@
+---
+title: "B. Die Führungs-Methode"
+subtitle: "Die sieben Wertfelder des Führungskönnens"
+format:
+  html:
+    page-layout: full
+---
+
+```{=html}
+<div class="header-hero-banner text-white mb-5" style="background: linear-gradient(135deg, #1c4587 0%, #153466 100%); padding: 3rem 2rem; border-radius: 8px; box-shadow: 0 4px 15px rgba(28, 69, 135, 0.2);">
+  <div class="container-fluid max-width-1100">
+    <h1 class="display-4 fw-bold text-white mb-2" style="font-family: 'EB Garamond', serif;">B. Die Führungs-Methode</h1>
+    <p class="fs-4 text-white-50 mb-0" style="font-family: 'Google Sans', 'Roboto', sans-serif; font-weight: 300;">Die sieben Wertfelder des Führungskönnens</p>
+  </div>
+</div>
+
+<div class="container-fluid max-width-1100 mb-5">
+  <div class="row g-5">
+    <div class="col-lg-9">
+      <h2 class="section-title mb-4" style="color: #1c4587; font-family: 'EB Garamond', serif; font-weight: 700;">B. Die Führungs-Methode: Die sieben Wertfelder des Führungskönnens</h2>
+      
+      <p class="lead-text mb-4" style="font-size: 1.25rem; line-height: 1.8; color: #2c3e50;">
+        Die Methode der Unternehmens-Evolution strukturiert das Führungskönnen in <strong>sieben zentrale Wertfelder</strong>, die für den nachhaltigen Erfolg von Unternehmen entscheidend sind.
+      </p>
+
+      <div class="my-5">
+        <ol class="list-group list-group-numbered shadow-sm">
+          <li class="list-group-item p-4 border-start-0 border-end-0">
+            <div class="ms-2">
+              <div class="fw-bold fs-5 text-primary mb-1" style="font-family: 'EB Garamond', serif;">1. Sinn- und Wertefeld</div>
+              <p class="mb-0 text-secondary" style="font-size: 1.05rem;">Ausrichtung des Unternehmens an zukunfts- und lebensdienlichen Werten.</p>
+            </div>
+          </li>
+          <li class="list-group-item p-4 border-start-0 border-end-0">
+            <div class="ms-2">
+              <div class="fw-bold fs-5 text-primary mb-1" style="font-family: 'EB Garamond', serif;">2. Kunden- und Marktpotenzialfeld</div>
+              <p class="mb-0 text-secondary" style="font-size: 1.05rem;">Erkennen und Besetzen neuer Marktnischen und Kundenbedürfnisse.</p>
+            </div>
+          </li>
+          <li class="list-group-item p-4 border-start-0 border-end-0">
+            <div class="ms-2">
+              <div class="fw-bold fs-5 text-primary mb-1" style="font-family: 'EB Garamond', serif;">3. Produkt- und Leistungsfeld</div>
+              <p class="mb-0 text-secondary" style="font-size: 1.05rem;">Kontinuierliche Entwicklung und Erneuerung der angebotenen Produkte und Leistungen.</p>
+            </div>
+          </li>
+          <li class="list-group-item p-4 border-start-0 border-end-0">
+            <div class="ms-2">
+              <div class="fw-bold fs-5 text-primary mb-1" style="font-family: 'EB Garamond', serif;">4. Prozess- und Strukturfeld</div>
+              <p class="mb-0 text-secondary" style="font-size: 1.05rem;">Effiziente und ressourcenschonende Gestaltung innerbetrieblicher Abläufe.</p>
+            </div>
+          </li>
+          <li class="list-group-item p-4 border-start-0 border-end-0">
+            <div class="ms-2">
+              <div class="fw-bold fs-5 text-primary mb-1" style="font-family: 'EB Garamond', serif;">5. Mitarbeiter- und Kulturfeld</div>
+              <p class="mb-0 text-secondary" style="font-size: 1.05rem;">Förderung der Eigenverantwortung und Entfaltung der Kräfte aller Mitarbeiter.</p>
+            </div>
+          </li>
+          <li class="list-group-item p-4 border-start-0 border-end-0">
+            <div class="ms-2">
+              <div class="fw-bold fs-5 text-primary mb-1" style="font-family: 'EB Garamond', serif;">6. Finanz- und Wirtschaftlichkeitsfeld</div>
+              <p class="mb-0 text-secondary" style="font-size: 1.05rem;">Sicherung der betriebswirtschaftlichen Substanz und langfristigen Kapitalbasis.</p>
+            </div>
+          </li>
+          <li class="list-group-item p-4 border-start-0 border-end-0">
+            <div class="ms-2">
+              <div class="fw-bold fs-5 text-primary mb-1" style="font-family: 'EB Garamond', serif;">7. Erneuerungs- und Zukunftsfeld</div>
+              <p class="mb-0 text-secondary" style="font-size: 1.05rem;">Fähigkeit zur Selbsttransformation und Bewältigung von Krisen.</p>
+            </div>
+          </li>
+        </ol>
+      </div>
+
+      <div class="mt-5 d-flex justify-content-between">
+        <a href="a-die-fuehrungs-philosophie.html" class="btn btn-outline-secondary fw-bold">&larr; Zurück zu Teil A</a>
+        <a href="c-die-fuehrungs-instrumente.html" class="btn btn-primary fw-bold" style="background-color: #1c4587; border-color: #1c4587;">Weiter zu Teil C: Die Führungs-Instrumente &rarr;</a>
+      </div>
+    </div>
+  </div>
+</div>
+```

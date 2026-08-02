@@ -51,7 +51,7 @@ website:
 
   page-footer:
     left: "© Dr. Manfred Sliwka | Quarto Website"
-    right: 'Original: <a href="https://sites.google.com/view/manfredsliwka/" target="_blank">Google Site Manfred Sliwka</a>'
+    right: 'Original: <a href="https://sites.google.com/view/manfredsliwka/" target="_blank" style="color: #ffffff; text-decoration: underline;">Google Site Manfred Sliwka</a>'
 
 format:
   html:
@@ -59,6 +59,7 @@ format:
       light: [cosmo, custom.scss]
     css: styles.css
     toc: false
+    title-block-style: none
     mainfont: "EB Garamond, Georgia, serif"
     sansfont: "Google Sans, Roboto, sans-serif"
     fontsize: "1.1rem"

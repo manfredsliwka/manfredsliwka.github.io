@@ -1,0 +1,66 @@
+---
+title: "Führungsbriefe"
+subtitle: "Philosophie und Methodik der Unternehmens-Evolution"
+format:
+  html:
+    page-layout: full
+---
+
+```{=html}
+<div class="header-hero-banner text-white mb-5" style="background: linear-gradient(135deg, #1c4587 0%, #153466 100%); padding: 3rem 2rem; border-radius: 8px; box-shadow: 0 4px 15px rgba(28, 69, 135, 0.2);">
+  <div class="container-fluid max-width-1100">
+    <h1 class="display-4 fw-bold text-white mb-2" style="font-family: 'EB Garamond', serif;">Führungsbriefe</h1>
+    <p class="fs-4 text-white-50 mb-0" style="font-family: 'Google Sans', 'Roboto', sans-serif; font-weight: 300;">Philosophie und Methodik der Unternehmens-Evolution</p>
+  </div>
+</div>
+
+<div class="container-fluid max-width-1100 mb-5">
+  <p class="lead-text mb-5" style="font-size: 1.3rem; line-height: 1.8; color: #2c3e50; font-family: 'EB Garamond', serif;">
+    Der Führungsbrief <em>"Philosophie und Methodik der Unternehmens-Evolution"</em> von Dr. Manfred Sliwka gliedert sich in drei zentrale Bausteine:
+  </p>
+
+  <div class="row row-cols-1 row-cols-md-3 g-4 mb-5">
+    <div class="col">
+      <div class="card h-100 shadow-sm border-0 p-3" style="background: #ffffff; border-radius: 8px; border: 1px solid #e2e8f0 !important; border-top: 4px solid #1c4587 !important;">
+        <div class="card-body d-flex flex-column">
+          <h3 class="card-title h5 fw-bold mb-3" style="color: #1c4587; font-family: 'EB Garamond', serif;">A. Die Führungs-Philosophie</h3>
+          <p class="card-text small text-secondary flex-grow-1" style="font-size: 1rem; line-height: 1.6;">
+            Grundlegende Erkenntnisse aus der Evolutionsforschung übertragen auf die moderne Führung von Unternehmen und Organisationen.
+          </p>
+          <div class="mt-3">
+            <a href="a-die-fuehrungs-philosophie.html" class="btn btn-outline-primary btn-sm fw-bold w-100" style="color: #1c4587; border-color: #1c4587;">Zum Teil A &rarr;</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col">
+      <div class="card h-100 shadow-sm border-0 p-3" style="background: #ffffff; border-radius: 8px; border: 1px solid #e2e8f0 !important; border-top: 4px solid #1c4587 !important;">
+        <div class="card-body d-flex flex-column">
+          <h3 class="card-title h5 fw-bold mb-3" style="color: #1c4587; font-family: 'EB Garamond', serif;">B. Die Führungs-Methode</h3>
+          <p class="card-text small text-secondary flex-grow-1" style="font-size: 1rem; line-height: 1.6;">
+            Die sieben Wertfelder des Führungskönnens – Methodische Werkzeuge für erfolgreiche Unternehmens-Evolution.
+          </p>
+          <div class="mt-3">
+            <a href="b-die-fuehrungs-methode.html" class="btn btn-outline-primary btn-sm fw-bold w-100" style="color: #1c4587; border-color: #1c4587;">Zum Teil B &rarr;</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col">
+      <div class="card h-100 shadow-sm border-0 p-3" style="background: #ffffff; border-radius: 8px; border: 1px solid #e2e8f0 !important; border-top: 4px solid #1c4587 !important;">
+        <div class="card-body d-flex flex-column">
+          <h3 class="card-title h5 fw-bold mb-3" style="color: #1c4587; font-family: 'EB Garamond', serif;">C. Die Führungs-Instrumente</h3>
+          <p class="card-text small text-secondary flex-grow-1" style="font-size: 1rem; line-height: 1.6;">
+            Der Instrumentenkasten – Konkrete Arbeitsmittel und Werkzeuge für den Führungsalltag.
+          </p>
+          <div class="mt-3">
+            <a href="c-die-fuehrungs-instrumente.html" class="btn btn-outline-primary btn-sm fw-bold w-100" style="color: #1c4587; border-color: #1c4587;">Zum Teil C &rarr;</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+```
