@@ -6,8 +6,16 @@ project:
   render:
     - "index.qmd"
     - "impressum.qmd"
-    - "buecher/*.qmd"
-    - "fuehrungsbriefe/*.qmd"
+    - "buecher/index.qmd"
+    - "buecher/das-abenteuer-des-werdens.qmd"
+    - "buecher/die-praxis-der-unternehmens-evolution.qmd"
+    - "buecher/opa-kannst-du-mir-den-urknall-erklaeren.qmd"
+    - "buecher/denkschule-evolution.qmd"
+    - "buecher/raubtier-strategie-oder-faultier-intelligenz.qmd"
+    - "fuehrungsbriefe/index.qmd"
+    - "fuehrungsbriefe/a-die-fuehrungs-philosophie.qmd"
+    - "fuehrungsbriefe/b-die-fuehrungs-methode.qmd"
+    - "fuehrungsbriefe/c-die-fuehrungs-instrumente.qmd"
 
 website:
   title: "Dr. Manfred Sliwka"
