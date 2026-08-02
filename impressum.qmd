@@ -6,17 +6,11 @@ format:
 ---
 
 ```{=html}
-<div class="page-header-banner">
-  <div class="container-main">
+<div class="container-main">
+  <div class="sites-title-box">
     <h1>Impressum</h1>
   </div>
-</div>
-
-<div class="container-main mb-5">
-  <h2 style="margin-top: 0;">Impressum</h2>
-
-  <p>
-    Diese Website wurde designed von Max Lindenthal : <a href="mailto:max.lindenthal@outlook.de">max.lindenthal@outlook.de</a>
-  </p>
+  <hr class="sites-divider">
+  <p>Diese Website wurde designed von Max Lindenthal : <a href="mailto:max.lindenthal@outlook.de">max.lindenthal@outlook.de</a></p>
 </div>
 ```

@@ -7,14 +7,12 @@ format:
 
 ```{=html}
 <div class="container-main">
-  <!-- Outlined Title Box -->
   <div class="sites-title-box">
     <h1>Dr. Manfred Sliwka</h1>
   </div>
 
   <hr class="sites-divider">
 
-  <!-- Content Section matching Screenshot 2 -->
   <div class="clearfix my-4">
     <img src="assets/dr-manfred-sliwka.png" alt="Dr. Manfred Sliwka" class="author-portrait-img">
     

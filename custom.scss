@@ -53,15 +53,14 @@ body {
   color: #1c4587 !important;
 }
 
-/* Outlined Title Box (Google Sites Atari Theme Title Box) */
+/* Title Box (No border outline) */
 .sites-title-box {
-  background-color: #ffffff;
-  border: 1px solid #333333;
-  padding: 1.5rem 2rem;
+  background-color: transparent;
+  border: none !important;
+  padding: 1.25rem 0;
   text-align: center;
-  margin-top: 1.5rem;
-  margin-bottom: 2rem;
-  border-radius: 2px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .sites-title-box h1 {
@@ -75,8 +74,8 @@ body {
 .sites-divider {
   border: 0;
   border-top: 1px solid #e2e8f0;
-  margin-top: 2rem;
-  margin-bottom: 2.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
