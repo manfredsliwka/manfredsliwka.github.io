@@ -40,6 +40,12 @@ body {
   width: auto !important;
 }
 
+/* Hide first/navbar title text next to logo as requested */
+.navbar-brand .navbar-title,
+.navbar-title {
+  display: none !important;
+}
+
 .nav-link {
   font-family: 'Google Sans', 'Roboto', sans-serif !important;
   font-size: 0.95rem !important;
