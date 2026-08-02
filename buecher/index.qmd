@@ -13,10 +13,6 @@ format:
 
   <hr class="sites-divider">
 
-  <p class="text-center lead" style="max-width: 760px; margin: 0 auto 2.5rem; color: #475569; font-size: 1.15rem; font-style: italic;">
-    Veröffentlichungen von Dr. Manfred Sliwka zur Denkschule Evolution, Unternehmensführung und Lebensphilosophie
-  </p>
-
   <div class="row row-cols-1 row-cols-lg-2 g-4 my-3">
     
     <!-- Buch 1 -->
