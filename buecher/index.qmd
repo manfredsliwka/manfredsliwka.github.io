@@ -13,37 +13,112 @@ format:
 
   <hr class="sites-divider">
 
-  <div class="row row-cols-1 row-cols-md-2 g-4 my-3">
+  <p class="text-center lead" style="max-width: 760px; margin: 0 auto 2.5rem; color: #475569; font-size: 1.15rem; font-style: italic;">
+    Veröffentlichungen von Dr. Manfred Sliwka zur Denkschule Evolution, Unternehmensführung und Lebensphilosophie
+  </p>
+
+  <div class="row row-cols-1 row-cols-lg-2 g-4 my-3">
+    
+    <!-- Buch 1 -->
     <div class="col">
-      <div class="d-flex align-items-center p-3" style="border: 1px solid #e0e0e0; border-radius: 2px;">
-        <img src="../assets/das-abenteuer-des-werdens.png" alt="Das Abenteuer des Werdens" style="max-width: 100px; height: auto; margin-right: 1.5rem;">
-        <div><h3 style="margin: 0; font-size: 1.25rem;"><a href="das-abenteuer-des-werdens.html">Das Abenteuer des Werdens</a></h3></div>
+      <div class="book-card h-100 p-4 d-flex align-items-start" style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.03); transition: transform 0.2s ease, box-shadow 0.2s ease;">
+        <img src="../assets/das-abenteuer-des-werdens.png" alt="Das Abenteuer des Werdens" style="width: 110px; height: auto; border-radius: 4px; box-shadow: 0 6px 14px rgba(0,0,0,0.1); margin-right: 1.5rem; flex-shrink: 0;">
+        <div class="d-flex flex-column justify-content-between h-100">
+          <div>
+            <h3 style="margin-top: 0; margin-bottom: 0.5rem; font-size: 1.35rem; color: #1c4587; font-weight: 600;">
+              <a href="das-abenteuer-des-werdens.html" style="color: #1c4587; text-decoration: none;">Das Abenteuer des Werdens</a>
+            </h3>
+            <p style="font-size: 0.95rem; color: #64748b; margin-bottom: 1rem; line-height: 1.5;">
+              "Manfred Sliwka gehört zu denen, die jungen Menschen Mut machen, Lebenshilfe geben und Werte vermitteln."
+            </p>
+          </div>
+          <div>
+            <a href="das-abenteuer-des-werdens.html" class="btn btn-sm btn-outline-primary" style="border-radius: 20px; font-weight: 500; padding: 0.35rem 1rem;">Buchdetails ansehen &rarr;</a>
+          </div>
+        </div>
       </div>
     </div>
+
+    <!-- Buch 2 -->
     <div class="col">
-      <div class="d-flex align-items-center p-3" style="border: 1px solid #e0e0e0; border-radius: 2px;">
-        <img src="../assets/die-praxis-der-unternehmens-evolution.png" alt="Die Praxis der Unternehmens-Evolution" style="max-width: 100px; height: auto; margin-right: 1.5rem;">
-        <div><h3 style="margin: 0; font-size: 1.25rem;"><a href="die-praxis-der-unternehmens-evolution.html">Die Praxis der Unternehmens-Evolution</a></h3></div>
+      <div class="book-card h-100 p-4 d-flex align-items-start" style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.03); transition: transform 0.2s ease, box-shadow 0.2s ease;">
+        <img src="../assets/die-praxis-der-unternehmens-evolution.png" alt="Die Praxis der Unternehmens-Evolution" style="width: 110px; height: auto; border-radius: 4px; box-shadow: 0 6px 14px rgba(0,0,0,0.1); margin-right: 1.5rem; flex-shrink: 0;">
+        <div class="d-flex flex-column justify-content-between h-100">
+          <div>
+            <h3 style="margin-top: 0; margin-bottom: 0.5rem; font-size: 1.35rem; color: #1c4587; font-weight: 600;">
+              <a href="die-praxis-der-unternehmens-evolution.html" style="color: #1c4587; text-decoration: none;">Die Praxis der Unternehmens-Evolution</a>
+            </h3>
+            <p style="font-size: 0.95rem; color: #64748b; margin-bottom: 1rem; line-height: 1.5;">
+              Ein Denkansatz für Führungskräfte jenseits aller modischen Theorien – mit beträchtlichem heuristischem Wert und praktischem Nutzen.
+            </p>
+          </div>
+          <div>
+            <a href="die-praxis-der-unternehmens-evolution.html" class="btn btn-sm btn-outline-primary" style="border-radius: 20px; font-weight: 500; padding: 0.35rem 1rem;">Buchdetails ansehen &rarr;</a>
+          </div>
+        </div>
       </div>
     </div>
+
+    <!-- Buch 3 -->
     <div class="col">
-      <div class="d-flex align-items-center p-3" style="border: 1px solid #e0e0e0; border-radius: 2px;">
-        <img src="../assets/opa-kannst-du-mir-den-urknall-erklaeren.png" alt="Opa, kannst du mir den Urknall erklären?" style="max-width: 100px; height: auto; margin-right: 1.5rem;">
-        <div><h3 style="margin: 0; font-size: 1.25rem;"><a href="opa-kannst-du-mir-den-urknall-erklaeren.html">Opa, kannst du mir den Urknall erklären?</a></h3></div>
+      <div class="book-card h-100 p-4 d-flex align-items-start" style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.03); transition: transform 0.2s ease, box-shadow 0.2s ease;">
+        <img src="../assets/opa-kannst-du-mir-den-urknall-erklaeren.png" alt="Opa, kannst du mir den Urknall erklären?" style="width: 110px; height: auto; border-radius: 4px; box-shadow: 0 6px 14px rgba(0,0,0,0.1); margin-right: 1.5rem; flex-shrink: 0;">
+        <div class="d-flex flex-column justify-content-between h-100">
+          <div>
+            <h3 style="margin-top: 0; margin-bottom: 0.5rem; font-size: 1.35rem; color: #1c4587; font-weight: 600;">
+              <a href="opa-kannst-du-mir-den-urknall-erklaeren.html" style="color: #1c4587; text-decoration: none;">Opa, kannst du mir den Urknall erklären?</a>
+            </h3>
+            <p style="font-size: 0.95rem; color: #64748b; margin-bottom: 1rem; line-height: 1.5;">
+              "Einfache, aber zugleich geistreiche Antworten ... In einer fabelhaft einfachen und heiteren Sprache." (Hamburger Abendblatt)
+            </p>
+          </div>
+          <div>
+            <a href="opa-kannst-du-mir-den-urknall-erklaeren.html" class="btn btn-sm btn-outline-primary" style="border-radius: 20px; font-weight: 500; padding: 0.35rem 1rem;">Buchdetails ansehen &rarr;</a>
+          </div>
+        </div>
       </div>
     </div>
+
+    <!-- Buch 4 -->
     <div class="col">
-      <div class="d-flex align-items-center p-3" style="border: 1px solid #e0e0e0; border-radius: 2px;">
-        <img src="../assets/denkschule-evolution.png" alt="Denkschule Evolution" style="max-width: 100px; height: auto; margin-right: 1.5rem;">
-        <div><h3 style="margin: 0; font-size: 1.25rem;"><a href="denkschule-evolution.html">Denkschule Evolution</a></h3></div>
+      <div class="book-card h-100 p-4 d-flex align-items-start" style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.03); transition: transform 0.2s ease, box-shadow 0.2s ease;">
+        <img src="../assets/denkschule-evolution.png" alt="Denkschule Evolution" style="width: 110px; height: auto; border-radius: 4px; box-shadow: 0 6px 14px rgba(0,0,0,0.1); margin-right: 1.5rem; flex-shrink: 0;">
+        <div class="d-flex flex-column justify-content-between h-100">
+          <div>
+            <h3 style="margin-top: 0; margin-bottom: 0.5rem; font-size: 1.35rem; color: #1c4587; font-weight: 600;">
+              <a href="denkschule-evolution.html" style="color: #1c4587; text-decoration: none;">Denkschule Evolution</a>
+            </h3>
+            <p style="font-size: 0.95rem; color: #64748b; margin-bottom: 1rem; line-height: 1.5;">
+              Exzellente Struktur, wertvolle Begrifflichkeiten und ein geistiger Werkzeugkasten von hohem Wert für Führungskräfte.
+            </p>
+          </div>
+          <div>
+            <a href="denkschule-evolution.html" class="btn btn-sm btn-outline-primary" style="border-radius: 20px; font-weight: 500; padding: 0.35rem 1rem;">Buchdetails ansehen &rarr;</a>
+          </div>
+        </div>
       </div>
     </div>
+
+    <!-- Buch 5 -->
     <div class="col">
-      <div class="d-flex align-items-center p-3" style="border: 1px solid #e0e0e0; border-radius: 2px;">
-        <img src="../assets/raubtier-strategie-oder-faultier-intelligenz.png" alt="Raubtier-Strategie oder Faultier-Intelligenz?" style="max-width: 100px; height: auto; margin-right: 1.5rem;">
-        <div><h3 style="margin: 0; font-size: 1.25rem;"><a href="raubtier-strategie-oder-faultier-intelligenz.html">Raubtier-Strategie oder Faultier-Intelligenz?</a></h3></div>
+      <div class="book-card h-100 p-4 d-flex align-items-start" style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.03); transition: transform 0.2s ease, box-shadow 0.2s ease;">
+        <img src="../assets/raubtier-strategie-oder-faultier-intelligenz.png" alt="Raubtier-Strategie oder Faultier-Intelligenz?" style="width: 110px; height: auto; border-radius: 4px; box-shadow: 0 6px 14px rgba(0,0,0,0.1); margin-right: 1.5rem; flex-shrink: 0;">
+        <div class="d-flex flex-column justify-content-between h-100">
+          <div>
+            <h3 style="margin-top: 0; margin-bottom: 0.5rem; font-size: 1.35rem; color: #1c4587; font-weight: 600;">
+              <a href="raubtier-strategie-oder-faultier-intelligenz.html" style="color: #1c4587; text-decoration: none;">Raubtier-Strategie oder Faultier-Intelligenz?</a>
+            </h3>
+            <p style="font-size: 0.95rem; color: #64748b; margin-bottom: 1rem; line-height: 1.5;">
+              Erkenntnisse zu werteorientiertem Handeln verständlich zusammengefasst – als Appell ohne erhobenen Zeigefinger.
+            </p>
+          </div>
+          <div>
+            <a href="raubtier-strategie-oder-faultier-intelligenz.html" class="btn btn-sm btn-outline-primary" style="border-radius: 20px; font-weight: 500; padding: 0.35rem 1rem;">Buchdetails ansehen &rarr;</a>
+          </div>
+        </div>
       </div>
     </div>
+
   </div>
 </div>
 ```

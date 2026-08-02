@@ -13,16 +13,16 @@ format:
   <hr class="sites-divider">
   <div class="row g-5 my-3">
     <div class="col-md-4 text-center">
-      <img src="../assets/das-abenteuer-des-werdens.png" alt="Das Abenteuer des Werdens" style="max-width: 200px; height: auto;">
+      <img src="../assets/das-abenteuer-des-werdens.png" alt="Das Abenteuer des Werdens" style="max-width: 200px; height: auto; border-radius: 4px; box-shadow: 0 8px 18px rgba(0,0,0,0.12);">
     </div>
     <div class="col-md-8">
-      <h2 style="margin-top: 0;">Das Abenteuer des Werdens</h2>
+      <h2 style="margin-top: 0; color: #1c4587;">Das Abenteuer des Werdens</h2>
       <p style="margin-bottom: 1.75rem;">Renate Schneider im Journal : "Manfred Sliwka gehört zu denen, die jungen Menschen Mut machen, Lebenshilfe geben und Werte vermitteln. Ich empfehle sein Buch allen Eltern, Lehrern und Politikern."</p>
       <p style="margin-bottom: 1.75rem;">Ein bekannter Fußballtrainer : "Ich möchte mich nochmals für das gute Buch bedanken. Ich habe es gleich gelesen und bin so beeindruckt, dass ich 30 Exemplare bestellt und sie an meine Spieler verschenkt habe."</p>
       <p style="margin-bottom: 1.75rem;">Aus dem Fax eines Vaters : "Zum 23. Geburtstag meines Sohnes habe ich ihm das Buch 'Das Abenteuer deines Werdens' geschenkt. Nachdem er es mit Begeisterung gelesen hat, sagte er zu mir: 'Jetzt geht`s los.' Ich fragte ihn: 'Was geht jetzt los?' Daraufhin sagte er: 'Ich gehe nach China!' Seit August 2007 studiert er Chinesisch in der Stadt Quingdao."</p>
       <p style="margin-bottom: 1.75rem;">Dr. Rolf Th. Stiefel in "Management-Andragogik und Organisationsentwicklung", St. Gallen : "Bei der Lektüre spürt man, dass der Autor wirklich etwas aus seiner Lebenserfahrung weiterzugeben hat - authentisch, mit Tiefgang und ohne den Jargon und Lack, mit dem heute viele Sachthemen von journalistischen Schwätzern behandelt werden."</p>
       <p style="margin-bottom: 1.75rem;">Mail eines Vaters : "Das kleine Buch für junge Leute, zu Weihnachten meinem Sohn geschenkt, hat ihm mächtig Auftrieb gegeben."</p>
-      <div class="mt-4"><a href="index.html">&larr; Zurück zur Bücher-Übersicht</a></div>
+      <div class="mt-4"><a href="index.html" class="btn btn-outline-secondary btn-sm" style="border-radius: 20px;">&larr; Zurück zur Bücher-Übersicht</a></div>
     </div>
   </div>
 </div>
