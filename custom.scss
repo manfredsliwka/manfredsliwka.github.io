@@ -16,37 +16,39 @@ body {
   line-height: 1.75;
 }
 
-/* White Navbar Header */
+/* White Navbar Header matching screenshot 1:1 */
 .navbar {
   background-color: #ffffff !important;
   border-bottom: 1px solid #e5e7eb;
-  padding-top: 0.75rem;
-  padding-bottom: 0.75rem;
+  padding-top: 0.85rem;
+  padding-bottom: 0.85rem;
   box-shadow: none;
 }
 
 .navbar-brand {
-  font-family: 'EB Garamond', serif !important;
-  font-size: 1.35rem !important;
-  font-weight: 500 !important;
-  color: #1c1c1c !important;
   display: flex !important;
   align-items: center !important;
-  gap: 0.75rem !important;
+  gap: 1.25rem !important;
+  text-decoration: none !important;
 }
 
-.navbar-brand img {
-  max-height: 40px !important;
+.navbar-brand img, .navbar-logo {
+  max-height: 48px !important;
+  height: 48px !important;
   width: auto !important;
+  display: inline-block !important;
 }
 
-/* Ensure navbar title text next to logo is visible */
-.navbar-brand .navbar-title {
+.navbar-brand .navbar-title,
+a.navbar-brand span {
   display: inline-block !important;
-  font-family: 'EB Garamond', serif !important;
-  font-size: 1.35rem !important;
+  font-family: 'EB Garamond', Georgia, serif !important;
+  font-size: 1.6rem !important;
+  font-weight: 400 !important;
   color: #1c1c1c !important;
-  font-weight: 500 !important;
+  margin: 0 !important;
+  line-height: 1 !important;
+  letter-spacing: 0.01em !important;
 }
 
 .nav-link {
