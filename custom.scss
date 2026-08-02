@@ -21,8 +21,15 @@ body {
 .quarto-title-block,
 header#title-block-header,
 header.quarto-title-block,
-.quarto-title {
+.quarto-title,
+h1.title,
+.title {
   display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
 }
 
 /* White Navbar Header matching screenshot 1:1 */
@@ -145,4 +152,15 @@ a:hover {
   margin-right: 2rem;
   margin-bottom: 1.5rem;
   border: 1px solid #e0e0e0;
+}
+
+/* Elegant Book Cards */
+.book-card {
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+.book-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(28, 69, 135, 0.09) !important;
+  border-color: #cbd5e1 !important;
 }
