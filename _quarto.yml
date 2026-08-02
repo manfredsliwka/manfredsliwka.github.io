@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - "assets/**"
   render:
     - "index.qmd"
     - "impressum.qmd"
@@ -11,7 +13,6 @@ website:
   title: "Dr. Manfred Sliwka"
   site-url: "https://manfredsliwka.github.io"
   navbar:
-    title: "Dr. Manfred Sliwka"
     logo: assets/logo.png
     background: "#ffffff"
     foreground: "#1c1c1c"
