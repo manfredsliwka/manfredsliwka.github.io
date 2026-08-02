@@ -16,6 +16,15 @@ body {
   line-height: 1.75;
 }
 
+/* Hide default Quarto title block header completely across all pages */
+#title-block-header,
+.quarto-title-block,
+header#title-block-header,
+header.quarto-title-block,
+.quarto-title {
+  display: none !important;
+}
+
 /* White Navbar Header matching screenshot 1:1 */
 .navbar {
   background-color: #ffffff !important;
