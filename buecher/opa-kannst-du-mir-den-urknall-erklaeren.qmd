@@ -1,0 +1,26 @@
+---
+title: "Opa, kannst du mir den Urknall erklären?"
+format:
+  html:
+    page-layout: full
+---
+
+```{=html}
+<div class="container-main">
+  <div class="sites-title-box">
+    <h1>Opa, kannst du mir den Urknall erklären?</h1>
+  </div>
+  <hr class="sites-divider">
+  <div class="row g-5 my-3">
+    <div class="col-md-4 text-center">
+      <img src="../assets/opa-kannst-du-mir-den-urknall-erklaeren.png" alt="Opa, kannst du mir den Urknall erklären?" style="max-width: 200px; height: auto;">
+    </div>
+    <div class="col-md-8">
+      <h2 style="margin-top: 0;">Opa, kannst du mir den Urknall erklären?</h2>
+      <p style="margin-bottom: 1.75rem;">Rheinischer Merkur 5. März 2009: „Darin findet der Leser auf gerade einmal 70 Seiten einfache, aber zugleich geistreiche Antworten auf die Frage seines Enkels. ... Nicht selten lädt das Buch auch zum Schmunzeln ein. Zum Beispiel, wenn der Großvater erzählt, wie er als Ökonom die Entwicklung des Lebens als erfolgreiches Unternehmen sieht: ‚Es ist vor 3,5 Milliarden Jahren durch die erste Urzelle als Einmannbetrieb gegründet worden und hat sich seitdem erfolgreich entwickelt‘, lautet sein Urteil.“</p>
+      <p style="margin-bottom: 1.75rem;">Hamburger Abendblatt 21. März 2009: „Es war die Frage seines vierjährigen Enkels, die den Philosophen, Ökonomen und Unternehmensberater getrieben hat, ein weiteres bemerkenswertes Buch zu schreiben. ... Ein Kinderbuch hat er dennoch nicht verfasst, sondern eines für Erwachsene, die mit Kindern noch darüber sprechen, wie die Welt entstanden ist. ... In einer fabelhaft einfachen und heiteren Sprache kommt er vom Urknall zum Menschen, zum Guten und Bösen und schließlich zu sich selbst und zu dem, was er aus dem Gespräch mit seinem Enkel gelernt hat. ... Es gibt Bücher, die sollten Kinder den Erwachsenen vorlesen. Sliwkas Werk ist so eines.“</p>
+      <div class="mt-4"><a href="index.html">&larr; Zurück zur Bücher-Übersicht</a></div>
+    </div>
+  </div>
+</div>
+```
