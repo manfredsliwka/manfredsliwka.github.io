@@ -21,7 +21,7 @@ format:
 
     <p>Die Methode, mit der dieses Großunternehmen arbeitet, ist die Evolution. Sie ist die erfolgreichste Entwicklungsmethode der Welt, die Ur-Methode schlechthin, um Zukunft zu gewinnen. Deshalb können Manager bei der Evolution in die Lehre gehen. Das ist die entscheidende Erkenntnis, die zur Begründung der "Denkschule Evolution für Führungskräfte" geführt hat.</p>
 
-    <p style="margin-top: 1.75rem;">War promovierter Ökonom und Unternehmensberater mit dem Arbeitsschwerpunkt Führungsphilosophie und Unternehmenskultur. Herausgeber des Führungsbriefes "Philosophie und Methodik der Unternehmens-Evolution". Veröffentlichungen u. a. in Harvard Manager "Wenn Manager bei der Evolution in die Lehre gehen" und der Frankfurter Allgemeine Zeitung "Die Evolutionslehre im Management". Buchautor. 1996 Berufung in den "Club of Vienna", das internationale Expertenteam, das evolutionäre Wachstumsprozesse in Wirtschaft und Gesellschaft untersucht. Manfred Sliwka ist am 9. Dezember 2009 gestorben.</p>
+    <p style="margin-top: 1.75rem;"><strong>Dr. Manfred Sliwka</strong> war promovierter Ökonom und Unternehmensberater mit dem Arbeitsschwerpunkt Führungsphilosophie und Unternehmenskultur. Herausgeber des Führungsbriefes "Philosophie und Methodik der Unternehmens-Evolution". Veröffentlichungen u. a. in Harvard Manager "Wenn Manager bei der Evolution in die Lehre gehen" und der Frankfurter Allgemeine Zeitung "Die Evolutionslehre im Management". Buchautor. 1996 Berufung in den "Club of Vienna", das internationale Expertenteam, das evolutionäre Wachstumsprozesse in Wirtschaft und Gesellschaft untersucht. Manfred Sliwka ist am 9. Dezember 2009 gestorben.</p>
   </div>
 </div>
 ```
