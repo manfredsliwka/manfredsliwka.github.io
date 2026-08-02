@@ -12,10 +12,11 @@ website:
   title: "Dr. Manfred Sliwka"
   site-url: "https://manfredsliwka.github.io"
   navbar:
-    background: "#1c4587"
-    foreground: "#ffffff"
+    logo: assets/logo.png
+    background: "#ffffff"
+    foreground: "#1c1c1c"
     search: false
-    left:
+    right:
       - text: "Startseite"
         href: index.qmd
       - text: "Profil"
@@ -50,8 +51,8 @@ website:
         href: impressum.qmd
 
   page-footer:
-    left: "© Dr. Manfred Sliwka | Quarto Website"
-    right: 'Original: <a href="https://sites.google.com/view/manfredsliwka/" target="_blank" style="color: #ffffff; text-decoration: underline;">Google Site Manfred Sliwka</a>'
+    left: "© Dr. Manfred Sliwka"
+    right: 'Original: <a href="https://sites.google.com/view/manfredsliwka/" target="_blank" style="color: #1c4587;">Google Site Manfred Sliwka</a>'
 
 format:
   html:

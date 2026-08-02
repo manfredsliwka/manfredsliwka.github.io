@@ -1,46 +1,24 @@
 ---
 title: "C. Die Führungs-Instrumente"
-subtitle: "Der Instrumentenkasten – Dr. Manfred Sliwka"
 format:
   html:
     page-layout: full
 ---
 
 ```{=html}
-<div class="header-hero-banner text-white mb-5" style="background: linear-gradient(135deg, #1c4587 0%, #153466 100%); padding: 3rem 2rem; border-radius: 8px; box-shadow: 0 4px 15px rgba(28, 69, 135, 0.2);">
-  <div class="container-fluid max-width-1100">
-    <h1 class="display-4 fw-bold text-white mb-2" style="font-family: 'EB Garamond', serif;">C. Die Führungs-Instrumente</h1>
-    <p class="fs-4 text-white-50 mb-0" style="font-family: 'Google Sans', 'Roboto', sans-serif; font-weight: 300;">Der Instrumentenkasten – Dr. Manfred Sliwka</p>
+<div class="container-main">
+  <div class="sites-title-box">
+    <h1>C. Die Führungs-Instrumente: der Instrumentenkasten</h1>
   </div>
-</div>
 
-<div class="container-fluid max-width-1100 mb-5">
-  <div class="row g-5">
-    <div class="col-lg-9">
-      <h2 class="section-title mb-4" style="color: #1c4587; font-family: 'EB Garamond', serif; font-weight: 700;">C. Die Führungs-Instrumente: Der Instrumentenkasten</h2>
-      
-      <p class="lead-text mb-4" style="font-size: 1.25rem; line-height: 1.8; color: #2c3e50;">
-        Der Instrumentenkasten bietet Führungskräften praktische Werkzeuge zur Umsetzung der Evolutionsmethode im Führungsalltag.
-      </p>
+  <hr class="sites-divider">
 
-      <p class="body-paragraph mb-4" style="font-size: 1.15rem; line-height: 1.8; color: #333333;">
-        Die Instrumente unterstützen Manager dabei, Potenziale systematisch zu analysieren, Wertfelder zu steuern und Weiterentwicklungsprozesse im Unternehmen messbar und spürbar zu verankern.
-      </p>
+  <p>Der Instrumentenkasten bietet Führungskräften praktische Werkzeuge zur Umsetzung der Evolutionsmethode im Führungsalltag.</p>
 
-      <div class="p-4 my-4 rounded" style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #1c4587;">
-        <h3 class="h5 fw-bold text-primary mb-3" style="font-family: 'Google Sans', sans-serif;">Instrumente im Überblick</h3>
-        <ul style="font-size: 1.05rem; line-height: 1.8; color: #334155; padding-left: 1.25rem;">
-          <li class="mb-3"><strong>Wertfeld-Analyse:</strong> Standortbestimmung und Reifegradprüfung der sieben Wertfelder im Unternehmen.</li>
-          <li class="mb-3"><strong>Evolutions-Portfolio:</strong> Bewertung von Produkten, Dienstleistungen und Geschäftsfeldern nach ihrer Zukunftsorientierung.</li>
-          <li class="mb-3"><strong>Dialog- und Kultur-Tools:</strong> Instrumente zur Förderung von Feedback, Transparenz und Werteorientierung im Führungsalltag.</li>
-        </ul>
-      </div>
+  <p>Die Instrumente unterstützen Manager dabei, Potenziale systematisch zu analysieren, Wertfelder zu steuern und Weiterentwicklungsprozesse im Unternehmen messbar und spürbar zu verankern.</p>
 
-      <div class="mt-5 d-flex justify-content-between">
-        <a href="b-die-fuehrungs-methode.html" class="btn btn-outline-secondary fw-bold">&larr; Zurück zu Teil B: Die Führungs-Methode</a>
-        <a href="index.html" class="btn btn-outline-primary fw-bold" style="color: #1c4587; border-color: #1c4587;">Übersicht Führungsbriefe &rarr;</a>
-      </div>
-    </div>
+  <div class="mt-4">
+    <a href="index.html">&larr; Zurück zur Führungsbriefe-Übersicht</a>
   </div>
 </div>
 ```

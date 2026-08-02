@@ -1,79 +1,100 @@
 /*-- scss:defaults --*/
 
 $primary: #1c4587 !default;
-$navbar-bg: #1c4587 !default;
-$navbar-fg: #ffffff !default;
+$navbar-bg: #ffffff !default;
+$navbar-fg: #1c1c1c !default;
 $body-bg: #ffffff !default;
 $body-color: #1c1c1c !default;
 
 /*-- scss:rules --*/
 
-/* Exact Google Sites Minimal Theme */
 body {
   font-family: 'EB Garamond', Georgia, serif;
   color: #1c1c1c;
   background-color: #ffffff;
   font-size: 1.15rem;
-  line-height: 1.7;
+  line-height: 1.75;
 }
 
+/* White Navbar Header */
 .navbar {
-  background-color: #1c4587 !important;
+  background-color: #ffffff !important;
+  border-bottom: 1px solid #e5e7eb;
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
   box-shadow: none;
-  border-bottom: 1px solid rgba(0,0,0,0.1);
 }
 
 .navbar-brand {
   font-family: 'EB Garamond', serif !important;
-  font-size: 1.5rem !important;
+  font-size: 1.35rem !important;
   font-weight: 500 !important;
-  color: #ffffff !important;
+  color: #1c1c1c !important;
+  display: flex !important;
+  align-items: center !important;
+  gap: 0.75rem !important;
+}
+
+.navbar-brand img {
+  max-height: 40px !important;
+  width: auto !important;
 }
 
 .nav-link {
   font-family: 'Google Sans', 'Roboto', sans-serif !important;
   font-size: 0.95rem !important;
-  color: rgba(255,255,255,0.9) !important;
+  font-weight: 500 !important;
+  color: #1c1c1c !important;
   padding-left: 1rem !important;
   padding-right: 1rem !important;
 }
 
 .nav-link:hover, .nav-link.active {
-  color: #ffffff !important;
+  color: #1c4587 !important;
 }
 
-/* Page Header Banner (Google Sites Header style) */
-.page-header-banner {
-  background-color: #1c4587;
-  color: #ffffff;
-  padding: 3rem 2rem;
-  margin-bottom: 2.5rem;
+/* Outlined Title Box (Google Sites Atari Theme Title Box) */
+.sites-title-box {
+  background-color: #ffffff;
+  border: 1px solid #333333;
+  padding: 1.5rem 2rem;
+  text-align: center;
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+  border-radius: 2px;
 }
 
-.page-header-banner h1 {
+.sites-title-box h1 {
   font-family: 'EB Garamond', serif;
-  font-size: 2.5rem;
+  font-size: 2.8rem;
   font-weight: 400;
-  color: #ffffff;
+  color: #1c4587;
   margin: 0;
+}
+
+.sites-divider {
+  border: 0;
+  border-top: 1px solid #e2e8f0;
+  margin-top: 2rem;
+  margin-bottom: 2.5rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'EB Garamond', serif;
-  color: #1c4587;
+  color: #1c1c1c;
   font-weight: 400;
   margin-top: 1.5rem;
   margin-bottom: 1rem;
 }
 
 h2 {
-  font-size: 1.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
 }
 
 h3 {
-  font-size: 1.4rem;
+  font-size: 1.35rem;
+  font-weight: 600;
 }
 
 p {
@@ -90,29 +111,19 @@ a:hover {
 }
 
 .container-main {
-  max-width: 960px;
+  max-width: 980px;
   margin-left: auto;
   margin-right: auto;
   padding-left: 1.5rem;
   padding-right: 1.5rem;
 }
 
-/* Minimal sidebar block (Google Sites style) */
-.sidebar-text {
-  font-size: 0.95rem;
-  line-height: 1.6;
-  color: #1c1c1c;
-}
-
-.sidebar-text p {
-  margin-bottom: 0.75rem;
-}
-
-/* Clean quote style matching Google Sites */
-blockquote, .quote-block {
-  border-left: none;
-  padding-left: 0;
-  margin-top: 1.5rem;
+/* Minimal Author Image float layout */
+.author-portrait-img {
+  width: 180px;
+  height: auto;
+  float: left;
+  margin-right: 2rem;
   margin-bottom: 1.5rem;
-  font-style: normal;
+  border: 1px solid #e0e0e0;
 }

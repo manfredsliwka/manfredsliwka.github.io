@@ -6,42 +6,24 @@ format:
 ---
 
 ```{=html}
-<div class="page-header-banner">
-  <div class="container-main">
+<div class="container-main">
+  <!-- Outlined Title Box -->
+  <div class="sites-title-box">
     <h1>Dr. Manfred Sliwka</h1>
   </div>
-</div>
 
-<div class="container-main">
-  <div class="row g-5">
-    <div class="col-md-8">
-      <h2 style="margin-top: 0;">Das erfolgreichste Unternehmen der Welt</h2>
+  <hr class="sites-divider">
 
-      <p>
-        Das erfolgreichste Unternehmen der Welt ist das Unternehmen <strong>"Leben"</strong>. Es ist vor 3,5 Milliarden Jahren als "Ein-Mann-Betrieb", die Urzelle, gegründet worden. Es hat seine Krisen grandios gemeistert. Es hat seine Ressourcen geschont. Es hat immer neue "Produkte" (die Arten) entwickelt. Es hat immer neue "Marktnischen" besetzt. Es hat sein "Kapital" grandios gesteigert. Die große Bilanz: das Gedeihen des Lebens in einer riesigen Vielfalt und Fülle.
-      </p>
+  <!-- Content Section matching Screenshot 2 -->
+  <div class="clearfix my-4">
+    <img src="assets/dr-manfred-sliwka.png" alt="Dr. Manfred Sliwka" class="author-portrait-img">
+    
+    <p><strong>Das erfolgreichste Unternehmen der Welt</strong><br>
+    Das erfolgreichste Unternehmen der Welt ist das Unternehmen "Leben". Es ist vor 3,5 Milliarden Jahren als "Ein-Mann-Betrieb", die Urzelle, gegründet worden. Es hat seine Krisen grandios gemeistert. Es hat seine Ressourcen geschont. Es hat immer neue "Produkte" (die Arten) entwickelt. Es hat immer neue "Marktnischen" besetzt. Es hat sein. "Kapital" grandios gesteigert. Die große Bilanz: das Gedeihen des Lebens in einer riesigen Vielfalt und Fülle.</p>
 
-      <p>
-        Die Methode, mit der dieses Großunternehmen arbeitet, ist die <strong>Evolution</strong>. Sie ist die erfolgreichste Entwicklungsmethode der Welt, die Ur-Methode schlechthin, um Zukunft zu gewinnen. Deshalb können Manager bei der Evolution in die Lehre gehen. Das ist die entscheidende Erkenntnis, die zur Begründung der <strong>"Denkschule Evolution für Führungskräfte"</strong> geführt hat.
-      </p>
+    <p>Die Methode, mit der dieses Großunternehmen arbeitet, ist die Evolution. Sie ist die erfolgreichste Entwicklungsmethode der Welt, die Ur-Methode schlechthin, um Zukunft zu gewinnen. Deshalb können Manager bei der Evolution in die Lehre gehen. Das ist die entscheidende Erkenntnis, die zur Begründung der "Denkschule Evolution für Führungskräfte" geführt hat.</p>
 
-      <p style="margin-top: 2rem; font-size: 0.95rem; color: #555555;">
-        🔗 <a href="https://sites.google.com/view/manfredsliwka/" target="_blank">Zur ursprünglichen Google Site von Dr. Manfred Sliwka</a>
-      </p>
-    </div>
-
-    <div class="col-md-4">
-      <div class="sidebar-text" style="background-color: #fafafa; padding: 1.5rem; border-radius: 4px;">
-        <div class="text-center mb-3">
-          <img src="assets/dr-manfred-sliwka.png" alt="Dr. Manfred Sliwka" style="max-width: 120px; height: auto;">
-        </div>
-        <p style="font-weight: bold; margin-bottom: 0.5rem; color: #1c4587;">MANFRED SLIWKA</p>
-        <p>war promovierter Ökonom und Unternehmensberater mit dem Arbeitsschwerpunkt Führungsphilosophie und Unternehmenskultur.</p>
-        <p>Herausgeber des Führungsbriefes "Philosophie und Methodik der Unternehmens-Evolution". Veröffentlichungen u. a. in Harvard Manager "Wenn Manager bei der Evolution in die Lehre gehen" und der Frankfurter Allgemeine Zeitung "Die Evolutionslehre im Management". Buchautor.</p>
-        <p>1996 Berufung in den "Club of Vienna", das internationale Expertenteam, das evolutionäre Wachstumsprozesse in Wirtschaft und Gesellschaft untersucht.</p>
-        <p style="font-style: italic; color: #666666; margin-bottom: 0;">Manfred Sliwka ist am 9. Dezember 2009 gestorben.</p>
-      </div>
-    </div>
+    <p style="margin-top: 1.75rem;"><strong>MANFRED SLIWKA</strong> war promovierter Ökonom und Unternehmensberater mit dem Arbeitsschwerpunkt Führungsphilosophie und Unternehmenskultur. Herausgeber des Führungsbriefes "Philosophie und Methodik der Unternehmens-Evolution". Veröffentlichungen u. a. in Harvard Manager "Wenn Manager bei der Evolution in die Lehre gehen" und der Frankfurter Allgemeine Zeitung "Die Evolutionslehre im Management". Buchautor. 1996 Berufung in den "Club of Vienna", das internationale Expertenteam, das evolutionäre Wachstumsprozesse in Wirtschaft und Gesellschaft untersucht. Manfred Sliwka ist am 9. Dezember 2009 gestorben.</p>
   </div>
 </div>
 ```

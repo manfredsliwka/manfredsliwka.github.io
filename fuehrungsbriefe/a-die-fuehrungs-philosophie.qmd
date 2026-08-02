@@ -1,46 +1,24 @@
 ---
 title: "A. Die Führungs-Philosophie"
-subtitle: "Führungsbriefe – Dr. Manfred Sliwka"
 format:
   html:
     page-layout: full
 ---
 
 ```{=html}
-<div class="header-hero-banner text-white mb-5" style="background: linear-gradient(135deg, #1c4587 0%, #153466 100%); padding: 3rem 2rem; border-radius: 8px; box-shadow: 0 4px 15px rgba(28, 69, 135, 0.2);">
-  <div class="container-fluid max-width-1100">
-    <h1 class="display-4 fw-bold text-white mb-2" style="font-family: 'EB Garamond', serif;">A. Die Führungs-Philosophie</h1>
-    <p class="fs-4 text-white-50 mb-0" style="font-family: 'Google Sans', 'Roboto', sans-serif; font-weight: 300;">Führungsbriefe – Dr. Manfred Sliwka</p>
+<div class="container-main">
+  <div class="sites-title-box">
+    <h1>A. Die Führungs-Philosophie</h1>
   </div>
-</div>
 
-<div class="container-fluid max-width-1100 mb-5">
-  <div class="row g-5">
-    <div class="col-lg-9">
-      <h2 class="section-title mb-4" style="color: #1c4587; font-family: 'EB Garamond', serif; font-weight: 700;">A. Die Führungs-Philosophie</h2>
-      
-      <p class="lead-text mb-4" style="font-size: 1.25rem; line-height: 1.8; color: #2c3e50;">
-        Die Führungs-Philosophie der Unternehmens-Evolution basiert auf der Erkenntnis, dass die Evolution das erfolgreichste Großunternehmen der Welt ist.
-      </p>
+  <hr class="sites-divider">
 
-      <p class="body-paragraph mb-4" style="font-size: 1.15rem; line-height: 1.8; color: #333333;">
-        In den Führungsbriefen entwickelte Dr. Manfred Sliwka das Fundament für ein neues Führungsverständnis. Führungskräfte sind Entwicklungsverantwortliche, deren Aufgabe darin besteht, durch wertbasierte Ausfaltung von Potenzialen Zukunftssicherheit zu gewinnen.
-      </p>
+  <p>Die Führungs-Philosophie der Unternehmens-Evolution basiert auf der Erkenntnis, dass die Evolution das erfolgreichste Großunternehmen der Welt ist.</p>
 
-      <div class="p-4 my-4 rounded" style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #1c4587;">
-        <h3 class="h5 fw-bold text-primary mb-3" style="font-family: 'Google Sans', sans-serif;">Kernaussagen der Führungs-Philosophie</h3>
-        <ul style="font-size: 1.05rem; line-height: 1.8; color: #334155; padding-left: 1.25rem;">
-          <li class="mb-3"><strong>Lernen von der Natur:</strong> Die Evolution nutzt Bewährtes und schafft kontinuierlich Neues durch Anpassung, Vielfalt und Ressourcenschonung.</li>
-          <li class="mb-3"><strong>Sinn- und Werteorientierung:</strong> Führung beschränkt sich nicht auf Kennzahlen, sondern gestaltet lebendige Unternehmenskulturen.</li>
-          <li class="mb-3"><strong>Ausfaltung von Kräften:</strong> Im Sinne von Nicolaus von Cues liegt die Kunst der Führung darin, die in den Mitarbeitern angelegten Potenziale zur Ausfaltung zu bringen.</li>
-        </ul>
-      </div>
+  <p>In den Führungsbriefen entwickelte Dr. Manfred Sliwka das Fundament für ein neues Führungsverständnis. Führungskräfte sind Entwicklungsverantwortliche, deren Aufgabe darin besteht, durch wertbasierte Ausfaltung von Potenzialen Zukunftssicherheit zu gewinnen.</p>
 
-      <div class="mt-5 d-flex justify-content-between">
-        <a href="index.html" class="btn btn-outline-secondary fw-bold">&larr; Zurück zur Führungsbriefe-Übersicht</a>
-        <a href="b-die-fuehrungs-methode.html" class="btn btn-primary fw-bold" style="background-color: #1c4587; border-color: #1c4587;">Weiter zu Teil B: Die Führungs-Methode &rarr;</a>
-      </div>
-    </div>
+  <div class="mt-4">
+    <a href="index.html">&larr; Zurück zur Führungsbriefe-Übersicht</a>
   </div>
 </div>
 ```

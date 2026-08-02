@@ -6,96 +6,72 @@ format:
 ---
 
 ```{=html}
-<div class="page-header-banner">
-  <div class="container-main">
+<div class="container-main">
+  <!-- Outlined Title Box -->
+  <div class="sites-title-box">
     <h1>Bücher</h1>
   </div>
-</div>
 
-<div class="container-main">
-  <div class="row row-cols-1 row-cols-md-2 g-4 mb-5">
+  <hr class="sites-divider">
+
+  <div class="row row-cols-1 row-cols-md-2 g-4 my-3">
 
     <!-- Book 1 -->
     <div class="col">
-      <div class="p-3" style="border: 1px solid #e0e0e0; border-radius: 4px; height: 100%;">
-        <div class="row align-items-center">
-          <div class="col-4 text-center">
-            <img src="../assets/das-abenteuer-des-werdens.png" alt="Das Abenteuer des Werdens" style="max-width: 100%; height: auto;">
-          </div>
-          <div class="col-8">
-            <h3 style="margin-top: 0; font-size: 1.25rem;">
-              <a href="das-abenteuer-des-werdens.html">Das Abenteuer des Werdens</a>
-            </h3>
-            <p style="font-size: 0.95rem; color: #555555; margin-bottom: 0;">Ein Buch für junge Leute und Orientierungssuchende</p>
-          </div>
+      <div class="d-flex align-items-center p-3" style="border: 1px solid #e0e0e0; border-radius: 2px;">
+        <img src="../assets/das-abenteuer-des-werdens.png" alt="Das Abenteuer des Werdens" style="max-width: 100px; height: auto; margin-right: 1.5rem;">
+        <div>
+          <h3 style="margin: 0; font-size: 1.25rem;">
+            <a href="das-abenteuer-des-werdens.html">Das Abenteuer des Werdens</a>
+          </h3>
         </div>
       </div>
     </div>
 
     <!-- Book 2 -->
     <div class="col">
-      <div class="p-3" style="border: 1px solid #e0e0e0; border-radius: 4px; height: 100%;">
-        <div class="row align-items-center">
-          <div class="col-4 text-center">
-            <img src="../assets/die-praxis-der-unternehmens-evolution.png" alt="Die Praxis der Unternehmens-Evolution" style="max-width: 100%; height: auto;">
-          </div>
-          <div class="col-8">
-            <h3 style="margin-top: 0; font-size: 1.25rem;">
-              <a href="die-praxis-der-unternehmens-evolution.html">Die Praxis der Unternehmens-Evolution</a>
-            </h3>
-            <p style="font-size: 0.95rem; color: #555555; margin-bottom: 0;">Philosophie und Methodik für Führungskräfte</p>
-          </div>
+      <div class="d-flex align-items-center p-3" style="border: 1px solid #e0e0e0; border-radius: 2px;">
+        <img src="../assets/die-praxis-der-unternehmens-evolution.png" alt="Die Praxis der Unternehmens-Evolution" style="max-width: 100px; height: auto; margin-right: 1.5rem;">
+        <div>
+          <h3 style="margin: 0; font-size: 1.25rem;">
+            <a href="die-praxis-der-unternehmens-evolution.html">Die Praxis der Unternehmens-Evolution</a>
+          </h3>
         </div>
       </div>
     </div>
 
     <!-- Book 3 -->
     <div class="col">
-      <div class="p-3" style="border: 1px solid #e0e0e0; border-radius: 4px; height: 100%;">
-        <div class="row align-items-center">
-          <div class="col-4 text-center">
-            <img src="../assets/opa-kannst-du-mir-den-urknall-erklaeren.png" alt="Opa, kannst du mir den Urknall erklären?" style="max-width: 100%; height: auto;">
-          </div>
-          <div class="col-8">
-            <h3 style="margin-top: 0; font-size: 1.25rem;">
-              <a href="opa-kannst-du-mir-den-urknall-erklaeren.html">Opa, kannst du mir den Urknall erklären?</a>
-            </h3>
-            <p style="font-size: 0.95rem; color: #555555; margin-bottom: 0;">Geistreiche Antworten auf große Fragen</p>
-          </div>
+      <div class="d-flex align-items-center p-3" style="border: 1px solid #e0e0e0; border-radius: 2px;">
+        <img src="../assets/opa-kannst-du-mir-den-urknall-erklaeren.png" alt="Opa, kannst du mir den Urknall erklären?" style="max-width: 100px; height: auto; margin-right: 1.5rem;">
+        <div>
+          <h3 style="margin: 0; font-size: 1.25rem;">
+            <a href="opa-kannst-du-mir-den-urknall-erklaeren.html">Opa, kannst du mir den Urknall erklären?</a>
+          </h3>
         </div>
       </div>
     </div>
 
     <!-- Book 4 -->
     <div class="col">
-      <div class="p-3" style="border: 1px solid #e0e0e0; border-radius: 4px; height: 100%;">
-        <div class="row align-items-center">
-          <div class="col-4 text-center">
-            <img src="../assets/denkschule-evolution.png" alt="Denkschule Evolution" style="max-width: 100%; height: auto;">
-          </div>
-          <div class="col-8">
-            <h3 style="margin-top: 0; font-size: 1.25rem;">
-              <a href="denkschule-evolution.html">Denkschule Evolution</a>
-            </h3>
-            <p style="font-size: 0.95rem; color: #555555; margin-bottom: 0;">Die Ur-Methode schlechthin</p>
-          </div>
+      <div class="d-flex align-items-center p-3" style="border: 1px solid #e0e0e0; border-radius: 2px;">
+        <img src="../assets/denkschule-evolution.png" alt="Denkschule Evolution" style="max-width: 100px; height: auto; margin-right: 1.5rem;">
+        <div>
+          <h3 style="margin: 0; font-size: 1.25rem;">
+            <a href="denkschule-evolution.html">Denkschule Evolution</a>
+          </h3>
         </div>
       </div>
     </div>
 
     <!-- Book 5 -->
     <div class="col">
-      <div class="p-3" style="border: 1px solid #e0e0e0; border-radius: 4px; height: 100%;">
-        <div class="row align-items-center">
-          <div class="col-4 text-center">
-            <img src="../assets/raubtier-strategie-oder-faultier-intelligenz.png" alt="Raubtier-Strategie oder Faultier-Intelligenz?" style="max-width: 100%; height: auto;">
-          </div>
-          <div class="col-8">
-            <h3 style="margin-top: 0; font-size: 1.25rem;">
-              <a href="raubtier-strategie-oder-faultier-intelligenz.html">Raubtier-Strategie oder Faultier-Intelligenz?</a>
-            </h3>
-            <p style="font-size: 0.95rem; color: #555555; margin-bottom: 0;">Appell zu werteorientiertem Handeln</p>
-          </div>
+      <div class="d-flex align-items-center p-3" style="border: 1px solid #e0e0e0; border-radius: 2px;">
+        <img src="../assets/raubtier-strategie-oder-faultier-intelligenz.png" alt="Raubtier-Strategie oder Faultier-Intelligenz?" style="max-width: 100px; height: auto; margin-right: 1.5rem;">
+        <div>
+          <h3 style="margin: 0; font-size: 1.25rem;">
+            <a href="raubtier-strategie-oder-faultier-intelligenz.html">Raubtier-Strategie oder Faultier-Intelligenz?</a>
+          </h3>
         </div>
       </div>
     </div>

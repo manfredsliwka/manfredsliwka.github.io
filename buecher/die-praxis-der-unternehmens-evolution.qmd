@@ -6,22 +6,22 @@ format:
 ---
 
 ```{=html}
-<div class="page-header-banner">
-  <div class="container-main">
+<div class="container-main">
+  <div class="sites-title-box">
     <h1>Die Praxis der Unternehmens-Evolution</h1>
   </div>
-</div>
 
-<div class="container-main mb-5">
-  <div class="row g-5">
+  <hr class="sites-divider">
+
+  <div class="row g-5 my-3">
     <div class="col-md-4 text-center">
-      <img src="../assets/die-praxis-der-unternehmens-evolution.png" alt="Die Praxis der Unternehmens-Evolution" style="max-width: 220px; height: auto;">
+      <img src="../assets/die-praxis-der-unternehmens-evolution.png" alt="Die Praxis der Unternehmens-Evolution" style="max-width: 200px; height: auto;">
     </div>
     
     <div class="col-md-8">
       <h2 style="margin-top: 0;">Die Praxis der Unternehmens-Evolution</h2>
       
-      <p style="margin-bottom: 2rem;">
+      <p style="margin-bottom: 1.75rem;">
         Aus der Evolution zu lernen, sei für Führungskräfte ein Denkansatz "jenseits aller modischen Führungstheorien, -methoden und -rezepte" . Das sei ein Denkansatz, "dessen heuristischer Wert ebenso beträchtlich ist wie sein praktischer Nutzen" .
       </p>
 
