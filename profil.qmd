@@ -1,53 +1,43 @@
 ---
 title: "Profil"
-subtitle: "Dr. Manfred Sliwka"
 format:
   html:
     page-layout: full
 ---
 
 ```{=html}
-<div class="header-hero-banner text-white mb-5" style="background: linear-gradient(135deg, #1c4587 0%, #153466 100%); padding: 3rem 2rem; border-radius: 8px; box-shadow: 0 4px 15px rgba(28, 69, 135, 0.2);">
-  <div class="container-fluid max-width-1100">
-    <h1 class="display-4 fw-bold text-white mb-2" style="font-family: 'EB Garamond', serif;">Profil</h1>
-    <p class="fs-4 text-white-50 mb-0" style="font-family: 'Google Sans', 'Roboto', sans-serif; font-weight: 300;">Dr. Manfred Sliwka</p>
+<div class="page-header-banner">
+  <div class="container-main">
+    <h1>Profil</h1>
   </div>
 </div>
 
-<div class="container-fluid max-width-1100">
+<div class="container-main">
   <div class="row g-5">
-    <div class="col-lg-8">
-      <h2 class="section-title mb-4" style="color: #1c4587; font-family: 'EB Garamond', serif; font-size: 2.2rem; font-weight: 700; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem;">
-        Über Dr. Manfred Sliwka
-      </h2>
+    <div class="col-md-8">
+      <h2 style="margin-top: 0;">Profil von Dr. Manfred Sliwka</h2>
 
-      <p class="lead-text mb-4" style="font-size: 1.3rem; line-height: 1.8; color: #2c3e50; font-family: 'EB Garamond', serif;">
+      <p>
         <strong>MANFRED SLIWKA</strong> war promovierter Ökonom und Unternehmensberater mit dem Arbeitsschwerpunkt Führungsphilosophie und Unternehmenskultur.
       </p>
 
-      <p class="body-paragraph mb-4" style="font-size: 1.15rem; line-height: 1.8; color: #333333;">
-        Als Herausgeber des Führungsbriefes <em>"Philosophie und Methodik der Unternehmens-Evolution"</em> und Autor zahlreicher Publikationen regte er ein neues Nachdenken über Führung und Verantwortung im Wirtschaftssystem an.
+      <p>
+        Herausgeber des Führungsbriefes "Philosophie und Methodik der Unternehmens-Evolution". Veröffentlichungen u. a. in Harvard Manager "Wenn Manager bei der Evolution in die Lehre gehen" und der Frankfurter Allgemeine Zeitung "Die Evolutionslehre im Management". Buchautor.
       </p>
 
-      <div class="p-4 my-4 rounded" style="background-color: #f8fafc; border-left: 4px solid #1c4587; border: 1px solid #e2e8f0; border-left-width: 4px;">
-        <h3 class="h5 fw-bold text-primary mb-3" style="font-family: 'Google Sans', sans-serif;">Veröffentlichungen & Wirken</h3>
-        <ul style="font-size: 1.05rem; line-height: 1.8; color: #334155; padding-left: 1.25rem;">
-          <li class="mb-2">Veröffentlichungen u. a. im <em>Harvard Manager</em> ("Wenn Manager bei der Evolution in die Lehre gehen") und der <em>Frankfurter Allgemeine Zeitung</em> ("Die Evolutionslehre im Management").</li>
-          <li class="mb-2">Buchautor zahlreicher Werke zur Unternehmens-Evolution, Werteorientierung und Philosophie für Führungskräfte sowie junge Menschen.</li>
-          <li class="mb-2">1996 Berufung in den <strong>"Club of Vienna"</strong>, das internationale Expertenteam, das evolutionäre Wachstumsprozesse in Wirtschaft und Gesellschaft untersucht.</li>
-        </ul>
-      </div>
+      <p>
+        1996 Berufung in den "Club of Vienna", das internationale Expertenteam, das evolutionäre Wachstumsprozesse in Wirtschaft und Gesellschaft untersucht.
+      </p>
 
-      <p class="text-muted mt-4" style="font-style: italic; font-size: 1.05rem;">
-        Manfred Sliwka ist am 9. Dezember 2009 gestorben. Seine Gedanken und Werke zur Evolutionslehre im Management wirken fort.
+      <p style="font-style: italic; color: #666666; margin-top: 2rem;">
+        Manfred Sliwka ist am 9. Dezember 2009 gestorben.
       </p>
     </div>
 
-    <div class="col-lg-4">
-      <div class="p-4 text-center rounded shadow-sm" style="background: #ffffff; border: 1px solid #e2e8f0; border-top: 5px solid #1c4587;">
-        <img src="assets/dr-manfred-sliwka.png" alt="Dr. Manfred Sliwka" class="img-fluid rounded-circle mb-3 shadow-sm" style="width: 160px; height: 160px; object-fit: cover; border: 3px solid #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.12) !important;">
-        <h4 class="h5 fw-bold mb-1" style="color: #1c4587; font-family: 'EB Garamond', serif;">Dr. Manfred Sliwka</h4>
-        <p class="small text-muted mb-0">Ökonom, Unternehmensberater & Buchautor</p>
+    <div class="col-md-4">
+      <div class="text-center p-3" style="background-color: #fafafa; border-radius: 4px;">
+        <img src="assets/dr-manfred-sliwka.png" alt="Dr. Manfred Sliwka" style="max-width: 140px; height: auto;">
+        <p style="margin-top: 1rem; font-weight: bold; color: #1c4587; margin-bottom: 0;">Dr. Manfred Sliwka</p>
       </div>
     </div>
   </div>

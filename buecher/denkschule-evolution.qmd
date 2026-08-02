@@ -1,71 +1,52 @@
 ---
 title: "Denkschule Evolution"
-subtitle: "Dr. Manfred Sliwka"
 format:
   html:
     page-layout: full
 ---
 
 ```{=html}
-<div class="header-hero-banner text-white mb-5" style="background: linear-gradient(135deg, #1c4587 0%, #153466 100%); padding: 3rem 2rem; border-radius: 8px; box-shadow: 0 4px 15px rgba(28, 69, 135, 0.2);">
-  <div class="container-fluid max-width-1100">
-    <h1 class="display-4 fw-bold text-white mb-2" style="font-family: 'EB Garamond', serif;">Denkschule Evolution</h1>
-    <p class="fs-4 text-white-50 mb-0" style="font-family: 'Google Sans', 'Roboto', sans-serif; font-weight: 300;">Dr. Manfred Sliwka</p>
+<div class="page-header-banner">
+  <div class="container-main">
+    <h1>Denkschule Evolution</h1>
   </div>
 </div>
 
-<div class="container-fluid max-width-1100 mb-5">
+<div class="container-main mb-5">
   <div class="row g-5">
-    <div class="col-lg-4 text-center">
-      <img src="../assets/denkschule-evolution.png" alt="Denkschule Evolution" class="img-fluid rounded shadow-sm" style="max-width: 260px; border: 1px solid #e2e8f0;">
+    <div class="col-md-4 text-center">
+      <img src="../assets/denkschule-evolution.png" alt="Denkschule Evolution" style="max-width: 220px; height: auto;">
     </div>
     
-    <div class="col-lg-8">
-      <h2 class="section-title mb-4" style="color: #1c4587; font-family: 'EB Garamond', serif; font-weight: 700;">Denkschule Evolution</h2>
+    <div class="col-md-8">
+      <h2 style="margin-top: 0;">Denkschule Evolution</h2>
       
-      <p class="lead-text mb-4" style="font-size: 1.25rem; line-height: 1.8; color: #2c3e50;">
+      <p style="margin-bottom: 2rem;">
         Die Evolution ist die universelle und am längsten bewährte Entwicklungsmethode der Welt. Das Ergebnis dieses Entwicklungsprozesses ist das Gedeihen des Lebens in einer ungeheuren Vielfalt und Fülle. Menschen, die Entwicklungsverantwortung tragen für Unternehmen oder politische und gesellschaftliche Institutionen, können bei der Evolution in die Lehre gehen.
       </p>
 
-      <h3 class="h4 text-primary mt-5 mb-4" style="font-family: 'Google Sans', sans-serif; font-weight: 600;">Stimmen von Lesern & Persönlichkeiten</h3>
+      <p style="margin-bottom: 2rem;">
+        Email an den Autor: "Exzellente Struktur, wertvolle Begrifflichkeiten, ein geistiger Werkzeugkasten von hohem Wert. Dank und Glückwunsch."
+      </p>
 
-      <div class="quote-card p-4 mb-4 rounded" style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #1c4587; font-style: italic;">
-        <div class="fw-bold mb-2 text-primary" style="font-style: normal; font-family: 'Google Sans', sans-serif;">Email an den Autor</div>
-        <p class="mb-0" style="font-size: 1.1rem; line-height: 1.7; color: #333333;">
-          "Exzellente Struktur, wertvolle Begrifflichkeiten, ein geistiger Werkzeugkasten von hohem Wert. Dank und Glückwunsch."
-        </p>
-      </div>
+      <p style="margin-bottom: 2rem;">
+        Frau Prof. Dr. Elisabeth Noelle (Institut für Demoskopie Allensbach): "Die Kerngedanken Ihres Buches beschäftigen auch mich: Die 'Wertfelder', von denen Sie sprechen, verändern sich ja tatsächlich, und wir müssen immer neu lernen, was lebensdienlich ist. Gerade Menschen in Führungsverantwortung können viel dazu beitragen, dass auch andere ihre Kräfte 'ausfalten', wie der von Ihnen geschätzte Nicolaus von Cues sagt."
+      </p>
 
-      <div class="quote-card p-4 mb-4 rounded" style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #1c4587; font-style: italic;">
-        <div class="fw-bold mb-2 text-primary" style="font-style: normal; font-family: 'Google Sans', sans-serif;">Frau Prof. Dr. Elisabeth Noelle (Institut für Demoskopie Allensbach)</div>
-        <p class="mb-0" style="font-size: 1.1rem; line-height: 1.7; color: #333333;">
-          "Die Kerngedanken Ihres Buches beschäftigen auch mich: Die 'Wertfelder', von denen Sie sprechen, verändern sich ja tatsächlich, und wir müssen immer neu lernen, was lebensdienlich ist. Gerade Menschen in Führungsverantwortung können viel dazu beitragen, dass auch andere ihre Kräfte 'ausfalten', wie der von Ihnen geschätzte Nicolaus von Cues sagt."
-        </p>
-      </div>
+      <p style="margin-bottom: 2rem;">
+        Prof. Dr. Hans Küng, Tübingen, Gründer der Stiftung „Weltethos“: "... danke ich Ihnen für Ihr sehr interessantes Buch 'Denkschule Evolution'. Sie haben da einen sehr interessanten neuen Zugang zur Wertefrage in der Wirtschaft geschrieben. Ich werde mich sicher noch mehr damit beschäftigen können."
+      </p>
 
-      <div class="quote-card p-4 mb-4 rounded" style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #1c4587; font-style: italic;">
-        <div class="fw-bold mb-2 text-primary" style="font-style: normal; font-family: 'Google Sans', sans-serif;">Prof. Dr. Hans Küng, Tübingen (Gründer der Stiftung "Weltethos")</div>
-        <p class="mb-0" style="font-size: 1.1rem; line-height: 1.7; color: #333333;">
-          "... danke ich Ihnen für Ihr sehr interessantes Buch 'Denkschule Evolution'. Sie haben da einen sehr interessanten neuen Zugang zur Wertefrage in der Wirtschaft geschrieben. Ich werde mich sicher noch mehr damit beschäftigen können."
-        </p>
-      </div>
+      <p style="margin-bottom: 2rem;">
+        Peter-Michael Thom, Vorsitzender des Vorstandes Gesellschaft zur Erforschung des Markenwesens e.V.: "Die inhaltliche Struktur der Themenaufbereitung, wie auch der angenehm sprech-deutsch gehaltene Schreibstil heben sich in wohltuender Weise von verklausulierten, um nicht zu sagen, manchmal verquasten, wissenschaftlichen Formulierungen ab."
+      </p>
 
-      <div class="quote-card p-4 mb-4 rounded" style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #1c4587; font-style: italic;">
-        <div class="fw-bold mb-2 text-primary" style="font-style: normal; font-family: 'Google Sans', sans-serif;">Peter-Michael Thom (Vorsitzender des Vorstandes Gesellschaft zur Erforschung des Markenwesens e.V.)</div>
-        <p class="mb-0" style="font-size: 1.1rem; line-height: 1.7; color: #333333;">
-          "Die inhaltliche Struktur der Themenaufbereitung, wie auch der angenehm sprech-deutsch gehaltene Schreibstil heben sich in wohltuender Weise von verklausulierten, um nicht zu sagen, manchmal verquasten, wissenschaftlichen Formulierungen ab."
-        </p>
-      </div>
-
-      <div class="quote-card p-4 mb-4 rounded" style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #1c4587; font-style: italic;">
-        <div class="fw-bold mb-2 text-primary" style="font-style: normal; font-family: 'Google Sans', sans-serif;">Rainer Scheerer</div>
-        <p class="mb-0" style="font-size: 1.1rem; line-height: 1.7; color: #333333;">
-          "Das ist mit Abstand eines der besten Bücher, die ich überhaupt gelesen habe. Das Thema wird klar erläutert und am Ende jedes Kapitels mit einer Quintessenz zusammengefasst. Denkschule!"
-        </p>
-      </div>
+      <p style="margin-bottom: 2rem;">
+        Rainer Scheerer: "Das ist mit Abstand eines der besten Bücher, die ich überhaupt gelesen habe. Das Thema wird klar erläutert und am Ende jedes Kapitels mit einer Quintessenz zusammengefasst. Denkschule!"
+      </p>
 
       <div class="mt-4">
-        <a href="index.html" class="btn btn-outline-secondary fw-bold">&larr; Zurück zur Bücher-Übersicht</a>
+        <a href="index.html">&larr; Zurück zur Bücher-Übersicht</a>
       </div>
     </div>
   </div>

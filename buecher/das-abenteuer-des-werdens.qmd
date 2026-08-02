@@ -1,71 +1,48 @@
 ---
 title: "Das Abenteuer des Werdens"
-subtitle: "Dr. Manfred Sliwka"
 format:
   html:
     page-layout: full
 ---
 
 ```{=html}
-<div class="header-hero-banner text-white mb-5" style="background: linear-gradient(135deg, #1c4587 0%, #153466 100%); padding: 3rem 2rem; border-radius: 8px; box-shadow: 0 4px 15px rgba(28, 69, 135, 0.2);">
-  <div class="container-fluid max-width-1100">
-    <h1 class="display-4 fw-bold text-white mb-2" style="font-family: 'EB Garamond', serif;">Das Abenteuer des Werdens</h1>
-    <p class="fs-4 text-white-50 mb-0" style="font-family: 'Google Sans', 'Roboto', sans-serif; font-weight: 300;">Dr. Manfred Sliwka</p>
+<div class="page-header-banner">
+  <div class="container-main">
+    <h1>Das Abenteuer des Werdens</h1>
   </div>
 </div>
 
-<div class="container-fluid max-width-1100 mb-5">
+<div class="container-main mb-5">
   <div class="row g-5">
-    <div class="col-lg-4 text-center">
-      <img src="../assets/das-abenteuer-des-werdens.png" alt="Das Abenteuer des Werdens" class="img-fluid rounded shadow-sm" style="max-width: 260px; border: 1px solid #e2e8f0;">
+    <div class="col-md-4 text-center">
+      <img src="../assets/das-abenteuer-des-werdens.png" alt="Das Abenteuer des Werdens" style="max-width: 220px; height: auto;">
     </div>
     
-    <div class="col-lg-8">
-      <h2 class="section-title mb-4" style="color: #1c4587; font-family: 'EB Garamond', serif; font-weight: 700;">Das Abenteuer des Werdens</h2>
+    <div class="col-md-8">
+      <h2 style="margin-top: 0;">Das Abenteuer des Werdens</h2>
       
-      <p class="lead-text mb-4" style="font-size: 1.25rem; line-height: 1.8; color: #2c3e50;">
-        Ein Buch für junge Menschen und Orientierungssuchende, das Lebenshilfe gibt, Werte vermittelt und Mut macht, die eigene Entwicklung aktiv zu gestalten.
+      <p style="margin-bottom: 2rem;">
+        Renate Schneider im Journal : "Manfred Sliwka gehört zu denen, die jungen Menschen Mut machen, Lebenshilfe geben und Werte vermitteln. Ich empfehle sein Buch allen Eltern, Lehrern und Politikern."
       </p>
 
-      <h3 class="h4 text-primary mt-5 mb-4" style="font-family: 'Google Sans', sans-serif; font-weight: 600;">Resonanz & Stimmen zum Buch</h3>
+      <p style="margin-bottom: 2rem;">
+        Ein bekannter Fußballtrainer : "Ich möchte mich nochmals für das gute Buch bedanken. Ich habe es gleich gelesen und bin so beeindruckt, dass ich 30 Exemplare bestellt und sie an meine Spieler verschenkt habe."
+      </p>
 
-      <div class="quote-card p-4 mb-4 rounded" style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #1c4587; font-style: italic;">
-        <div class="fw-bold mb-2 text-primary" style="font-style: normal; font-family: 'Google Sans', sans-serif;">Renate Schneider im Journal</div>
-        <p class="mb-0" style="font-size: 1.1rem; line-height: 1.7; color: #333333;">
-          "Manfred Sliwka gehört zu denen, die jungen Menschen Mut machen, Lebenshilfe geben und Werte vermitteln. Ich empfehle sein Buch allen Eltern, Lehrern und Politikern."
-        </p>
-      </div>
+      <p style="margin-bottom: 2rem;">
+        Aus dem Fax eines Vaters : "Zum 23. Geburtstag meines Sohnes habe ich ihm das Buch 'Das Abenteuer deines Werdens' geschenkt. Nachdem er es mit Begeisterung gelesen hat, sagte er zu mir: 'Jetzt geht`s los.' Ich fragte ihn: 'Was geht jetzt los?' Daraufhin sagte er: 'Ich gehe nach China!' Seit August 2007 studiert er Chinesisch in der Stadt Quingdao."
+      </p>
 
-      <div class="quote-card p-4 mb-4 rounded" style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #1c4587; font-style: italic;">
-        <div class="fw-bold mb-2 text-primary" style="font-style: normal; font-family: 'Google Sans', sans-serif;">Ein bekannter Fußballtrainer</div>
-        <p class="mb-0" style="font-size: 1.1rem; line-height: 1.7; color: #333333;">
-          "Ich möchte mich nochmals für das gute Buch bedanken. Ich habe es gleich gelesen und bin so beeindruckt, dass ich 30 Exemplare bestellt und sie an meine Spieler verschenkt habe."
-        </p>
-      </div>
+      <p style="margin-bottom: 2rem;">
+        Dr. Rolf Th. Stiefel in "Management-Andragogik und Organisationsentwicklung", St. Gallen : "Bei der Lektüre spürt man, dass der Autor wirklich etwas aus seiner Lebenserfahrung weiterzugeben hat - authentisch, mit Tiefgang und ohne den Jargon und Lack, mit dem heute viele Sachthemen von journalistischen Schwätzern behandelt werden."
+      </p>
 
-      <div class="quote-card p-4 mb-4 rounded" style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #1c4587; font-style: italic;">
-        <div class="fw-bold mb-2 text-primary" style="font-style: normal; font-family: 'Google Sans', sans-serif;">Aus dem Fax eines Vaters</div>
-        <p class="mb-0" style="font-size: 1.1rem; line-height: 1.7; color: #333333;">
-          "Zum 23. Geburtstag meines Sohnes habe ich ihm das Buch 'Das Abenteuer deines Werdens' geschenkt. Nachdem er es mit Begeisterung gelesen hat, sagte er zu mir: 'Jetzt geht's los.' Ich fragte ihn: 'Was geht jetzt los?' Daraufhin sagte er: 'Ich gehe nach China!' Seit August 2007 studiert er Chinesisch in der Stadt Quingdao."
-        </p>
-      </div>
-
-      <div class="quote-card p-4 mb-4 rounded" style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #1c4587; font-style: italic;">
-        <div class="fw-bold mb-2 text-primary" style="font-style: normal; font-family: 'Google Sans', sans-serif;">Dr. Rolf Th. Stiefel in "Management-Andragogik und Organisationsentwicklung", St. Gallen</div>
-        <p class="mb-0" style="font-size: 1.1rem; line-height: 1.7; color: #333333;">
-          "Bei der Lektüre spürt man, dass der Autor wirklich etwas aus seiner Lebenserfahrung weiterzugeben hat - authentisch, mit Tiefgang und ohne den Jargon und Lack, mit dem heute viele Sachthemen von journalistischen Schwätzern behandelt werden."
-        </p>
-      </div>
-
-      <div class="quote-card p-4 mb-4 rounded" style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #1c4587; font-style: italic;">
-        <div class="fw-bold mb-2 text-primary" style="font-style: normal; font-family: 'Google Sans', sans-serif;">Mail eines Vaters</div>
-        <p class="mb-0" style="font-size: 1.1rem; line-height: 1.7; color: #333333;">
-          "Das kleine Buch für junge Leute, zu Weihnachten meinem Sohn geschenkt, hat ihm mächtig Auftrieb gegeben."
-        </p>
-      </div>
+      <p style="margin-bottom: 2rem;">
+        Mail eines Vaters : "Das kleine Buch für junge Leute, zu Weihnachten meinem Sohn geschenkt, hat ihm mächtig Auftrieb gegeben."
+      </p>
 
       <div class="mt-4">
-        <a href="index.html" class="btn btn-outline-secondary fw-bold">&larr; Zurück zur Bücher-Übersicht</a>
+        <a href="index.html">&larr; Zurück zur Bücher-Übersicht</a>
       </div>
     </div>
   </div>

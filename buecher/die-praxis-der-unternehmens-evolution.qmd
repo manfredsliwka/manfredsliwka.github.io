@@ -1,43 +1,32 @@
 ---
 title: "Die Praxis der Unternehmens-Evolution"
-subtitle: "Dr. Manfred Sliwka"
 format:
   html:
     page-layout: full
 ---
 
 ```{=html}
-<div class="header-hero-banner text-white mb-5" style="background: linear-gradient(135deg, #1c4587 0%, #153466 100%); padding: 3rem 2rem; border-radius: 8px; box-shadow: 0 4px 15px rgba(28, 69, 135, 0.2);">
-  <div class="container-fluid max-width-1100">
-    <h1 class="display-4 fw-bold text-white mb-2" style="font-family: 'EB Garamond', serif;">Die Praxis der Unternehmens-Evolution</h1>
-    <p class="fs-4 text-white-50 mb-0" style="font-family: 'Google Sans', 'Roboto', sans-serif; font-weight: 300;">Dr. Manfred Sliwka</p>
+<div class="page-header-banner">
+  <div class="container-main">
+    <h1>Die Praxis der Unternehmens-Evolution</h1>
   </div>
 </div>
 
-<div class="container-fluid max-width-1100 mb-5">
+<div class="container-main mb-5">
   <div class="row g-5">
-    <div class="col-lg-4 text-center">
-      <img src="../assets/die-praxis-der-unternehmens-evolution.png" alt="Die Praxis der Unternehmens-Evolution" class="img-fluid rounded shadow-sm" style="max-width: 260px; border: 1px solid #e2e8f0;">
+    <div class="col-md-4 text-center">
+      <img src="../assets/die-praxis-der-unternehmens-evolution.png" alt="Die Praxis der Unternehmens-Evolution" style="max-width: 220px; height: auto;">
     </div>
     
-    <div class="col-lg-8">
-      <h2 class="section-title mb-4" style="color: #1c4587; font-family: 'EB Garamond', serif; font-weight: 700;">Die Praxis der Unternehmens-Evolution</h2>
+    <div class="col-md-8">
+      <h2 style="margin-top: 0;">Die Praxis der Unternehmens-Evolution</h2>
       
-      <p class="lead-text mb-4" style="font-size: 1.25rem; line-height: 1.8; color: #2c3e50;">
-        Ein praxisorientierter Denkansatz für Führungskräfte, der die Gesetze der Evolution auf die Entwicklung von Unternehmen und Führungskultur überträgt.
+      <p style="margin-bottom: 2rem;">
+        Aus der Evolution zu lernen, sei für Führungskräfte ein Denkansatz "jenseits aller modischen Führungstheorien, -methoden und -rezepte" . Das sei ein Denkansatz, "dessen heuristischer Wert ebenso beträchtlich ist wie sein praktischer Nutzen" .
       </p>
 
-      <h3 class="h4 text-primary mt-5 mb-4" style="font-family: 'Google Sans', sans-serif; font-weight: 600;">Besprechung & Würdigung</h3>
-
-      <div class="quote-card p-4 mb-4 rounded" style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #1c4587; font-style: italic;">
-        <div class="fw-bold mb-2 text-primary" style="font-style: normal; font-family: 'Google Sans', sans-serif;">Aus der Rezension</div>
-        <p class="mb-0" style="font-size: 1.15rem; line-height: 1.8; color: #333333;">
-          Aus der Evolution zu lernen, sei für Führungskräfte ein Denkansatz <em>"jenseits aller modischen Führungstheorien, -methoden und -rezepte"</em>. Das sei ein Denkansatz, <em>"dessen heuristischer Wert ebenso beträchtlich ist wie sein praktischer Nutzen"</em>.
-        </p>
-      </div>
-
       <div class="mt-4">
-        <a href="index.html" class="btn btn-outline-secondary fw-bold">&larr; Zurück zur Bücher-Übersicht</a>
+        <a href="index.html">&larr; Zurück zur Bücher-Übersicht</a>
       </div>
     </div>
   </div>

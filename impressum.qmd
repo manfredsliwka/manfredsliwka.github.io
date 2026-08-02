@@ -1,44 +1,22 @@
 ---
 title: "Impressum"
-subtitle: "Angaben gemäß Informationspflicht"
 format:
   html:
     page-layout: full
 ---
 
 ```{=html}
-<div class="header-hero-banner text-white mb-5" style="background: linear-gradient(135deg, #1c4587 0%, #153466 100%); padding: 3rem 2rem; border-radius: 8px; box-shadow: 0 4px 15px rgba(28, 69, 135, 0.2);">
-  <div class="container-fluid max-width-1100">
-    <h1 class="display-4 fw-bold text-white mb-2" style="font-family: 'EB Garamond', serif;">Impressum</h1>
-    <p class="fs-4 text-white-50 mb-0" style="font-family: 'Google Sans', 'Roboto', sans-serif; font-weight: 300;">Angaben gemäß Informationspflicht</p>
+<div class="page-header-banner">
+  <div class="container-main">
+    <h1>Impressum</h1>
   </div>
 </div>
 
-<div class="container-fluid max-width-1100 mb-5">
-  <div class="row g-5">
-    <div class="col-lg-8">
-      <h2 class="section-title mb-4" style="color: #1c4587; font-family: 'EB Garamond', serif; font-weight: 700;">Impressum & Kontakt</h2>
+<div class="container-main mb-5">
+  <h2 style="margin-top: 0;">Impressum</h2>
 
-      <div class="p-4 my-4 rounded" style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #1c4587;">
-        <h3 class="h5 fw-bold text-primary mb-3" style="font-family: 'Google Sans', sans-serif;">Website-Design & Urhebervermerk</h3>
-        <p class="mb-2" style="font-size: 1.05rem; color: #475569;">
-          Diese Website wurde designed von:
-        </p>
-        <p class="lead-text mb-0" style="font-size: 1.2rem; font-family: 'Google Sans', sans-serif;">
-          <strong>Max Lindenthal</strong><br>
-          E-Mail: <a href="mailto:max.lindenthal@outlook.de" style="color: #1c4587; text-decoration: underline;">max.lindenthal@outlook.de</a>
-        </p>
-      </div>
-
-      <h3 class="h5 fw-bold text-primary mt-5 mb-3" style="font-family: 'Google Sans', sans-serif;">Gedenken an Dr. Manfred Sliwka</h3>
-      <p class="body-paragraph mb-4" style="font-size: 1.15rem; line-height: 1.8; color: #333333;">
-        Dr. Manfred Sliwka (gestorben am 9. Dezember 2009) war Ökonom, Unternehmensberater und Buchautor. Diese Website bewahrt sein geistiges Werk zur Denkschule der Unternehmens-Evolution und macht seine Veröffentlichungen der Öffentlichkeit zugänglich.
-      </p>
-
-      <p class="text-muted small mt-4">
-        GitHub Repository: <a href="https://github.com/manfredsliwka/manfredsliwka.github.io" target="_blank" style="color: #1c4587;">github.com/manfredsliwka/manfredsliwka.github.io</a>
-      </p>
-    </div>
-  </div>
+  <p>
+    Diese Website wurde designed von Max Lindenthal : <a href="mailto:max.lindenthal@outlook.de">max.lindenthal@outlook.de</a>
+  </p>
 </div>
 ```
