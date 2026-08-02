@@ -1,1 +1,534 @@
-<!DOCTYPE html><html><head><meta http-equiv="refresh" content="0; url=b-die-fuehrungs-methode.html"><script>window.location.href="b-die-fuehrungs-methode.html";</script></head><body>Redirecting to <a href="b-die-fuehrungs-methode.html">b-die-fuehrungs-methode.html</a></body></html>
+---
+title: "B. Die Führungs-Methode"
+format:
+  html:
+    page-layout: full
+---
+
+```{=html}
+<div class="container-main">
+  <div class="sites-title-box">
+    <h1>B. Die Führungs-Methode: Die sieben Wertfelder des Führungskönnens</h1>
+  </div>
+
+  <hr class="sites-divider">
+
+  <p>Die Methode der Unternehmens-Evolution strukturiert das Führungskönnen in <strong>sieben zentrale Wertfelder</strong>, die für den nachhaltigen Erfolg von Unternehmen entscheidend sind. Hier stehen alle 42 Führungsbriefe der 6 Wertfelder direkt als PDF-Download bereit:</p>
+
+  
+  <div class="my-5 p-4" style="background-color: #fafafa; border: 1px solid #e0e0e0; border-radius: 4px;">
+    <h2 style="margin-top: 0; color: #1c4587; font-size: 1.6rem;">1. Sinn- und Wertefeld</h2>
+    <p style="margin-bottom: 1.5rem; color: #475569;">Ausrichtung des Unternehmens an zukunfts- und lebensdienlichen Werten.</p>
+    <div class="row row-cols-1 row-cols-md-2 g-3 my-3">
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 03-01</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (92 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B1_07_03-01.pdf" download="B1_07_03-01.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 03-97</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (77 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B1_05_03-97.pdf" download="B1_05_03-97.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 04-06</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (87 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B1_06_04-06.pdf" download="B1_06_04-06.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 04-95</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (78 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B1_03_04-95.pdf" download="B1_03_04-95.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 08-98</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (75 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B1_02_08-98.pdf" download="B1_02_08-98.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 09-06</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (91 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B1_01_09-06.pdf" download="B1_01_09-06.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 12-99</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (74 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B1_04_12-99.pdf" download="B1_04_12-99.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+  <div class="my-5 p-4" style="background-color: #fafafa; border: 1px solid #e0e0e0; border-radius: 4px;">
+    <h2 style="margin-top: 0; color: #1c4587; font-size: 1.6rem;">2. Kunden- und Marktpotenzialfeld</h2>
+    <p style="margin-bottom: 1.5rem; color: #475569;">Erkennen und Besetzen neuer Marktnischen und Kundenbedürfnisse.</p>
+    <div class="row row-cols-1 row-cols-md-2 g-3 my-3">
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 02-98</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (76 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B2_04_02-98.pdf" download="B2_04_02-98.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 03-02</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (88 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B2_01_03-02.pdf" download="B2_01_03-02.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 04-08</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (87 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B2_03_04-08.pdf" download="B2_03_04-08.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 04-97</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (77 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B2_07_04-97.pdf" download="B2_07_04-97.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 05-00</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (88 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B2_05_05-00.pdf" download="B2_05_05-00.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 06-06</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (88 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B2_06_06-06.pdf" download="B2_06_06-06.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 11-04</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (89 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B2_02_11-04.pdf" download="B2_02_11-04.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+  <div class="my-5 p-4" style="background-color: #fafafa; border: 1px solid #e0e0e0; border-radius: 4px;">
+    <h2 style="margin-top: 0; color: #1c4587; font-size: 1.6rem;">3. Produkt- und Leistungsfeld</h2>
+    <p style="margin-bottom: 1.5rem; color: #475569;">Kontinuierliche Entwicklung und Erneuerung der angebotenen Produkte und Leistungen.</p>
+    <div class="row row-cols-1 row-cols-md-2 g-3 my-3">
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 03-98</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (78 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B3_04_03-98.pdf" download="B3_04_03-98.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 06-02</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (88 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B3_02_06-02.pdf" download="B3_02_06-02.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 08-02</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (89 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B3_01_08-02.pdf" download="B3_01_08-02.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 08-04</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (86 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B3_06_08-04.pdf" download="B3_06_08-04.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 09-07</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (91 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B3_07_09-07.pdf" download="B3_07_09-07.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 09-99</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (78 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B3_03_09-99.pdf" download="B3_03_09-99.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 10-95</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (76 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B3_05_10-95.pdf" download="B3_05_10-95.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+  <div class="my-5 p-4" style="background-color: #fafafa; border: 1px solid #e0e0e0; border-radius: 4px;">
+    <h2 style="margin-top: 0; color: #1c4587; font-size: 1.6rem;">4. Prozess- und Strukturfeld</h2>
+    <p style="margin-bottom: 1.5rem; color: #475569;">Effiziente und ressourcenschonende Gestaltung innerbetrieblicher Abläufe.</p>
+    <div class="row row-cols-1 row-cols-md-2 g-3 my-3">
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 04-00</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (87 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B4_06_04-00.pdf" download="B4_06_04-00.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 07-99</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (79 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B4_05_07-99.pdf" download="B4_05_07-99.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 08-97</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (78 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B4_04_08-97.pdf" download="B4_04_08-97.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 09-04</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (97 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B4_07_09-04.pdf" download="B4_07_09-04.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 10-03</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (90 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B4_01_10-03.pdf" download="B4_01_10-03.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 11-00</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (92 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B4_02_11-00.pdf" download="B4_02_11-00.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 11-03</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (89 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B4_03_11-03.pdf" download="B4_03_11-03.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+  <div class="my-5 p-4" style="background-color: #fafafa; border: 1px solid #e0e0e0; border-radius: 4px;">
+    <h2 style="margin-top: 0; color: #1c4587; font-size: 1.6rem;">5. Mitarbeiter- und Kulturfeld</h2>
+    <p style="margin-bottom: 1.5rem; color: #475569;">Förderung der Eigenverantwortung und Entfaltung der Kräfte aller Mitarbeiter.</p>
+    <div class="row row-cols-1 row-cols-md-2 g-3 my-3">
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 03-00</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (85 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B5_06_03-00.pdf" download="B5_06_03-00.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 04-98</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (81 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B5_02_04-98.pdf" download="B5_02_04-98.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 05-06</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (88 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B5_03_05-06.pdf" download="B5_03_05-06.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 06-96</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (78 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B5_05_06-96.pdf" download="B5_05_06-96.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 08-00</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (91 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B5_04_08-00.pdf" download="B5_04_08-00.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 10-00</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (90 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B5_07_10-00.pdf" download="B5_07_10-00.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 10-08</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (90 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B5_01_10-08.pdf" download="B5_01_10-08.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+  <div class="my-5 p-4" style="background-color: #fafafa; border: 1px solid #e0e0e0; border-radius: 4px;">
+    <h2 style="margin-top: 0; color: #1c4587; font-size: 1.6rem;">6. Finanz- und Wirtschaftlichkeitsfeld</h2>
+    <p style="margin-bottom: 1.5rem; color: #475569;">Sicherung der betriebswirtschaftlichen Substanz und langfristigen Kapitalbasis.</p>
+    <div class="row row-cols-1 row-cols-md-2 g-3 my-3">
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 01-02</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (101 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B6_05_01-02.pdf" download="B6_05_01-02.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 04-02</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (89 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B6_03_04-02.pdf" download="B6_03_04-02.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 05-03</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (91 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B6_01_05-03.pdf" download="B6_01_05-03.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 07-05</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (90 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B6_04_07-05.pdf" download="B6_04_07-05.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 08-99</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (79 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B6_07_08-99.pdf" download="B6_07_08-99.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 12-00</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (89 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B6_06_12-00.pdf" download="B6_06_12-00.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 12-97</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (79 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/B6_02_12-97.pdf" download="B6_02_12-97.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+
+  <div class="mt-4">
+    <a href="index.html">&larr; Zurück zur Führungsbriefe-Übersicht</a>
+  </div>
+</div>
+```

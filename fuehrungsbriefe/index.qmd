@@ -1,1 +1,36 @@
-<!DOCTYPE html><html><head><meta http-equiv="refresh" content="0; url=index.html"><script>window.location.href="index.html";</script></head><body>Redirecting to <a href="index.html">index.html</a></body></html>
+---
+title: "Führungsbriefe"
+format:
+  html:
+    page-layout: full
+---
+
+```{=html}
+<div class="container-main">
+  <div class="sites-title-box">
+    <h1>Führungsbriefe</h1>
+  </div>
+
+  <hr class="sites-divider">
+
+  <p class="lead">Dr. Manfred Sliwka verfasste regelmäßig Führungsbriefe für seine Kunden. Alle 56 Original-Führungsbriefe stehen hier direkt auf der Website als PDF-Download bereit (ohne Google Drive Login):</p>
+
+  <div class="my-4 p-4" style="background-color: #fafafa; border-left: 4px solid #1c4587; border-radius: 2px;">
+    <h3 style="margin-top: 0; color: #1c4587;"><a href="a-die-fuehrungs-philosophie.html">A. Die Führungs-Philosophie (7 Briefe)</a></h3>
+    <p>Das theoretische und ethische Fundament der Unternehmens-Evolution.</p>
+    <a href="a-die-fuehrungs-philosophie.html" class="btn btn-primary" style="font-weight: 500;">📄 Zu den 7 Führungsbriefen (PDFs)</a>
+  </div>
+
+  <div class="my-4 p-4" style="background-color: #fafafa; border-left: 4px solid #1c4587; border-radius: 2px;">
+    <h3 style="margin-top: 0; color: #1c4587;"><a href="b-die-fuehrungs-methode.html">B. Die Führungs-Methode: Die 7 Wertfelder (42 Briefe)</a></h3>
+    <p>Führungsbriefe zu allen 6 Wertfeldern des Führungskönnens (Sinn & Werte, Kunden & Märkte, Produkte & Leistungen, Prozesse & Strukturen, Mitarbeiter & Kultur, Finanzen & Wirtschaftlichkeit).</p>
+    <a href="b-die-fuehrungs-methode.html" class="btn btn-primary" style="font-weight: 500;">📂 Zu allen 42 Führungsbriefen (PDFs)</a>
+  </div>
+
+  <div class="my-4 p-4" style="background-color: #fafafa; border-left: 4px solid #1c4587; border-radius: 2px;">
+    <h3 style="margin-top: 0; color: #1c4587;"><a href="c-die-fuehrungs-instrumente.html">C. Die Führungs-Instrumente (7 Briefe)</a></h3>
+    <p>Der Instrumentenkasten für die Praxis im Führungsalltag.</p>
+    <a href="c-die-fuehrungs-instrumente.html" class="btn btn-primary" style="font-weight: 500;">📄 Zu den 7 Führungsbriefen (PDFs)</a>
+  </div>
+</div>
+```

@@ -1,1 +1,0 @@
-<!DOCTYPE html><html><head><meta http-equiv="refresh" content="0; url=impressum.html"><script>window.location.href="impressum.html";</script></head><body>Redirecting to <a href="impressum.html">impressum.html</a></body></html>

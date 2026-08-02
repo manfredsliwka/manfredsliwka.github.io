@@ -1,1 +1,103 @@
-<!DOCTYPE html><html><head><meta http-equiv="refresh" content="0; url=a-die-fuehrungs-philosophie.html"><script>window.location.href="a-die-fuehrungs-philosophie.html";</script></head><body>Redirecting to <a href="a-die-fuehrungs-philosophie.html">a-die-fuehrungs-philosophie.html</a></body></html>
+---
+title: "A. Die Führungs-Philosophie"
+format:
+  html:
+    page-layout: full
+---
+
+```{=html}
+<div class="container-main">
+  <div class="sites-title-box">
+    <h1>A. Die Führungs-Philosophie</h1>
+  </div>
+
+  <hr class="sites-divider">
+
+  <p>Die Führungs-Philosophie der Unternehmens-Evolution basiert auf der Erkenntnis, dass die Evolution das erfolgreichste Großunternehmen der Welt ist. Hier können Sie alle 7 Führungsbriefe der Kategorie <strong>A. Die Führungs-Philosophie</strong> direkt als PDF herunterladen:</p>
+
+  <div class="row row-cols-1 row-cols-md-2 g-3 my-3">
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 01-08</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (87 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/A_01_01-08.pdf" download="A_01_01-08.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 02-03</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (90 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/A_05_02-03.pdf" download="A_05_02-03.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 02-99</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (75 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/A_07_02-99.pdf" download="A_07_02-99.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 04-01</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (87 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/A_06_04-01.pdf" download="A_06_04-01.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 12-01</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (88 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/A_02_12-01.pdf" download="A_02_12-01.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 12-04</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (87 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/A_03_12-04.pdf" download="A_03_12-04.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="p-3 style-card d-flex align-items-center justify-content-between" style="border: 1px solid #e2e8f0; border-radius: 4px; background-color: #ffffff;">
+      <div style="padding-right: 1rem;">
+        <div style="font-weight: 500; font-size: 1.05rem; color: #1c1c1c;">📄 Führungsbrief 12-05</div>
+        <div style="font-size: 0.85rem; color: #64748b;">PDF-Dokument (86 KB)</div>
+      </div>
+      <div>
+        <a href="../assets/pdf/A_04_12-05.pdf" download="A_04_12-05.pdf" target="_blank" class="btn btn-sm btn-outline-primary" style="white-space: nowrap; font-weight: 500; font-size: 0.9rem;">📥 PDF Herunterladen</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <div class="mt-4">
+    <a href="index.html">&larr; Zurück zur Führungsbriefe-Übersicht</a>
+  </div>
+</div>
+```
