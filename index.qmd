@@ -16,7 +16,7 @@ format:
   <div class="clearfix my-4">
     <img src="assets/dr-manfred-sliwka.png" alt="Dr. Manfred Sliwka" class="author-portrait-img">
     
-    <p><strong>Das erfolgreichste Unternehmen der Welt</strong><br>
+    <p><strong>Denkschule Evolution für Führungskräfte</strong><br>
     Das erfolgreichste Unternehmen der Welt ist das Unternehmen "Leben". Es ist vor 3,5 Milliarden Jahren als "Ein-Mann-Betrieb", die Urzelle, gegründet worden. Es hat seine Krisen grandios gemeistert. Es hat seine Ressourcen geschont. Es hat immer neue "Produkte" (die Arten) entwickelt. Es hat immer neue "Marktnischen" besetzt. Es hat sein "Kapital" grandios gesteigert. Die große Bilanz: das Gedeihen des Lebens in einer riesigen Vielfalt und Fülle.</p>
 
     <p>Die Methode, mit der dieses Großunternehmen arbeitet, ist die Evolution. Sie ist die erfolgreichste Entwicklungsmethode der Welt, die Ur-Methode schlechthin, um Zukunft zu gewinnen. Deshalb können Manager bei der Evolution in die Lehre gehen. Das ist die entscheidende Erkenntnis, die zur Begründung der "Denkschule Evolution für Führungskräfte" geführt hat.</p>
