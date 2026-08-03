@@ -33,20 +33,22 @@ h1.title,
   overflow: hidden !important;
 }
 
-/* White Navbar Header matching screenshot 1:1 */
+/* White Navbar Header */
 .navbar {
   background-color: #ffffff !important;
   border-bottom: 1px solid #e5e7eb;
-  padding-top: 0.85rem;
-  padding-bottom: 0.85rem;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
   box-shadow: none;
 }
 
 .navbar-brand {
   display: flex !important;
   align-items: center !important;
-  gap: 1rem !important;
+  gap: 0.75rem !important;
   text-decoration: none !important;
+  max-width: 80%;
+  overflow: hidden;
 }
 
 .navbar-brand img, .navbar-logo {
@@ -54,18 +56,22 @@ h1.title,
   height: 44px !important;
   width: auto !important;
   display: inline-block !important;
+  flex-shrink: 0;
 }
 
 .navbar-brand .navbar-title,
 a.navbar-brand span {
   display: inline-block !important;
   font-family: 'EB Garamond', Georgia, serif !important;
-  font-size: 1.6rem !important;
+  font-size: 1.5rem !important;
   font-weight: 400 !important;
   color: #1c1c1c !important;
   margin: 0 !important;
-  line-height: 1 !important;
+  line-height: 1.1 !important;
   letter-spacing: 0.01em !important;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .nav-link {
@@ -181,7 +187,7 @@ a:hover {
    ========================================================================== */
 
 @media (max-width: 768px) {
-  /* Smaller, perfectly scaled title font for mobile screens */
+  /* Dynamic font scaling for main page title */
   .sites-title-box h1 {
     font-size: 2.1rem;
     padding: 0 0.5rem;
@@ -192,7 +198,7 @@ a:hover {
     padding-right: 1rem;
   }
 
-  /* Unfloat author portrait image on mobile so it centers nicely above bio text */
+  /* Centered author image on smartphones */
   .author-portrait-img {
     float: none !important;
     display: block !important;
@@ -200,7 +206,7 @@ a:hover {
     width: 160px !important;
   }
 
-  /* Book detail pages: center book cover image on mobile */
+  /* Centered book detail covers on mobile */
   .row.g-5 .col-md-4 {
     margin-bottom: 1.5rem;
   }
@@ -210,26 +216,15 @@ a:hover {
     display: block;
   }
 
-  /* Mobile Navbar tweaks */
+  /* Navbar header text scaling so full title fits without truncation */
   .navbar-brand .navbar-title,
   a.navbar-brand span {
-    font-size: 1.3rem !important;
+    font-size: 1.2rem !important;
   }
 
   .navbar-brand img, .navbar-logo {
-    max-height: 38px !important;
-    height: 38px !important;
-  }
-
-  /* Mobile Führungsbriefe tables: ensure full width and touch spacing */
-  .table-responsive {
-    border-radius: 6px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
-  }
-
-  .table td, .table th {
-    padding: 0.85rem 0.65rem;
-    font-size: 0.98rem;
+    max-height: 36px !important;
+    height: 36px !important;
   }
 }
 
@@ -238,7 +233,31 @@ a:hover {
     font-size: 1.85rem;
   }
 
-  /* Stack book card content vertically on narrow smartphone screens */
+  /* Precise smartphone navbar scaling: logo 32px + title 1.05rem fits on all smartphones */
+  .navbar {
+    padding-left: 0.5rem !important;
+    padding-right: 0.5rem !important;
+  }
+
+  .navbar-brand {
+    gap: 0.4rem !important;
+    max-width: 75% !important;
+  }
+
+  .navbar-brand img, .navbar-logo {
+    max-height: 32px !important;
+    height: 32px !important;
+  }
+
+  .navbar-brand .navbar-title,
+  a.navbar-brand span {
+    font-size: 1.05rem !important;
+    font-weight: 500 !important;
+    white-space: nowrap !important;
+    overflow: visible !important;
+  }
+
+  /* Vertical stack for book cards on small screens */
   .book-card {
     flex-direction: column !important;
     align-items: center !important;
@@ -263,9 +282,21 @@ a:hover {
     margin-bottom: 0.35rem;
   }
 
-  /* Ensure body text stays easily readable without tiny fonts */
   body {
     font-size: 1.08rem;
     line-height: 1.7;
+  }
+}
+
+@media (max-width: 380px) {
+  /* Extra small smartphones (e.g., iPhone SE / Galaxy S mini) */
+  .navbar-brand img, .navbar-logo {
+    max-height: 28px !important;
+    height: 28px !important;
+  }
+
+  .navbar-brand .navbar-title,
+  a.navbar-brand span {
+    font-size: 0.95rem !important;
   }
 }
