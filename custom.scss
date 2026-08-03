@@ -42,18 +42,28 @@ h1.title,
   box-shadow: none;
 }
 
+.navbar .container-fluid,
+.navbar .container {
+  padding-left: 0.75rem !important;
+  padding-right: 0.75rem !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+}
+
 .navbar-brand {
   display: flex !important;
   align-items: center !important;
-  gap: 0.75rem !important;
+  gap: 0.6rem !important;
   text-decoration: none !important;
-  max-width: 80%;
-  overflow: hidden;
+  max-width: calc(100% - 50px) !important;
+  overflow: visible !important;
+  margin-right: 0 !important;
 }
 
 .navbar-brand img, .navbar-logo {
-  max-height: 44px !important;
-  height: 44px !important;
+  max-height: 40px !important;
+  height: 40px !important;
   width: auto !important;
   display: inline-block !important;
   flex-shrink: 0;
@@ -63,15 +73,15 @@ h1.title,
 a.navbar-brand span {
   display: inline-block !important;
   font-family: 'EB Garamond', Georgia, serif !important;
-  font-size: 1.5rem !important;
+  font-size: 1.45rem !important;
   font-weight: 400 !important;
   color: #1c1c1c !important;
   margin: 0 !important;
   line-height: 1.1 !important;
   letter-spacing: 0.01em !important;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  white-space: nowrap !important;
+  overflow: visible !important;
+  text-overflow: clip !important;
 }
 
 .nav-link {
@@ -187,7 +197,6 @@ a:hover {
    ========================================================================== */
 
 @media (max-width: 768px) {
-  /* Dynamic font scaling for main page title */
   .sites-title-box h1 {
     font-size: 2.1rem;
     padding: 0 0.5rem;
@@ -198,7 +207,6 @@ a:hover {
     padding-right: 1rem;
   }
 
-  /* Centered author image on smartphones */
   .author-portrait-img {
     float: none !important;
     display: block !important;
@@ -206,7 +214,6 @@ a:hover {
     width: 160px !important;
   }
 
-  /* Centered book detail covers on mobile */
   .row.g-5 .col-md-4 {
     margin-bottom: 1.5rem;
   }
@@ -216,15 +223,14 @@ a:hover {
     display: block;
   }
 
-  /* Navbar header text scaling so full title fits without truncation */
   .navbar-brand .navbar-title,
   a.navbar-brand span {
-    font-size: 1.2rem !important;
+    font-size: 1.15rem !important;
   }
 
   .navbar-brand img, .navbar-logo {
-    max-height: 36px !important;
-    height: 36px !important;
+    max-height: 34px !important;
+    height: 34px !important;
   }
 }
 
@@ -233,31 +239,32 @@ a:hover {
     font-size: 1.85rem;
   }
 
-  /* Precise smartphone navbar scaling: logo 32px + title 1.05rem fits on all smartphones */
-  .navbar {
-    padding-left: 0.5rem !important;
-    padding-right: 0.5rem !important;
+  .navbar .container-fluid,
+  .navbar .container {
+    padding-left: 0.4rem !important;
+    padding-right: 0.4rem !important;
   }
 
   .navbar-brand {
-    gap: 0.4rem !important;
-    max-width: 75% !important;
+    gap: 0.35rem !important;
+    max-width: calc(100% - 44px) !important;
+    overflow: visible !important;
   }
 
   .navbar-brand img, .navbar-logo {
-    max-height: 32px !important;
-    height: 32px !important;
+    max-height: 30px !important;
+    height: 30px !important;
   }
 
   .navbar-brand .navbar-title,
   a.navbar-brand span {
-    font-size: 1.05rem !important;
+    font-size: 0.98rem !important;
     font-weight: 500 !important;
     white-space: nowrap !important;
     overflow: visible !important;
+    text-overflow: clip !important;
   }
 
-  /* Vertical stack for book cards on small screens */
   .book-card {
     flex-direction: column !important;
     align-items: center !important;
@@ -289,14 +296,13 @@ a:hover {
 }
 
 @media (max-width: 380px) {
-  /* Extra small smartphones (e.g., iPhone SE / Galaxy S mini) */
   .navbar-brand img, .navbar-logo {
-    max-height: 28px !important;
-    height: 28px !important;
+    max-height: 26px !important;
+    height: 26px !important;
   }
 
   .navbar-brand .navbar-title,
   a.navbar-brand span {
-    font-size: 0.95rem !important;
+    font-size: 0.88rem !important;
   }
 }

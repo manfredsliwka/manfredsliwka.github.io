@@ -26,16 +26,28 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 
+.navbar .container-fluid,
+.navbar .container {
+  padding-left: 0.75rem !important;
+  padding-right: 0.75rem !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+}
+
 .navbar-brand {
   display: flex !important;
   align-items: center !important;
-  gap: 0.75rem !important;
+  gap: 0.6rem !important;
   text-decoration: none !important;
+  max-width: calc(100% - 50px) !important;
+  overflow: visible !important;
+  margin-right: 0 !important;
 }
 
 .navbar-brand img, .navbar-logo {
-  max-height: 44px !important;
-  height: 44px !important;
+  max-height: 40px !important;
+  height: 40px !important;
   width: auto !important;
   display: inline-block !important;
   flex-shrink: 0;
@@ -45,13 +57,15 @@ body {
 a.navbar-brand span {
   display: inline-block !important;
   font-family: 'EB Garamond', Georgia, serif !important;
-  font-size: 1.5rem !important;
+  font-size: 1.45rem !important;
   font-weight: 400 !important;
   color: #1c1c1c !important;
   margin: 0 !important;
   line-height: 1.1 !important;
   letter-spacing: 0.01em !important;
-  white-space: nowrap;
+  white-space: nowrap !important;
+  overflow: visible !important;
+  text-overflow: clip !important;
 }
 
 .sites-title-box {
@@ -125,12 +139,12 @@ a.navbar-brand span {
 
   .navbar-brand .navbar-title,
   a.navbar-brand span {
-    font-size: 1.2rem !important;
+    font-size: 1.15rem !important;
   }
 
   .navbar-brand img, .navbar-logo {
-    max-height: 36px !important;
-    height: 36px !important;
+    max-height: 34px !important;
+    height: 34px !important;
   }
 }
 
@@ -139,22 +153,30 @@ a.navbar-brand span {
     font-size: 1.85rem !important;
   }
 
+  .navbar .container-fluid,
+  .navbar .container {
+    padding-left: 0.4rem !important;
+    padding-right: 0.4rem !important;
+  }
+
   .navbar-brand {
-    gap: 0.4rem !important;
-    max-width: 75% !important;
+    gap: 0.35rem !important;
+    max-width: calc(100% - 44px) !important;
+    overflow: visible !important;
   }
 
   .navbar-brand img, .navbar-logo {
-    max-height: 32px !important;
-    height: 32px !important;
+    max-height: 30px !important;
+    height: 30px !important;
   }
 
   .navbar-brand .navbar-title,
   a.navbar-brand span {
-    font-size: 1.05rem !important;
+    font-size: 0.98rem !important;
     font-weight: 500 !important;
     white-space: nowrap !important;
     overflow: visible !important;
+    text-overflow: clip !important;
   }
 
   .book-card {
@@ -189,12 +211,12 @@ a.navbar-brand span {
 
 @media (max-width: 380px) {
   .navbar-brand img, .navbar-logo {
-    max-height: 28px !important;
-    height: 28px !important;
+    max-height: 26px !important;
+    height: 26px !important;
   }
 
   .navbar-brand .navbar-title,
   a.navbar-brand span {
-    font-size: 0.95rem !important;
+    font-size: 0.88rem !important;
   }
 }
