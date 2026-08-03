@@ -105,7 +105,41 @@ ul.task-list li input[type="checkbox"] {
   }
 </style>
 <link href="../styles.css" rel="stylesheet"/>
-</head>
+<style id="mobile-header-fix">
+                @media (max-width: 576px) {
+                  .navbar .container-fluid, .navbar .container {
+                    padding-left: 4px !important;
+                    padding-right: 4px !important;
+                  }
+                  .navbar-brand {
+                    max-width: calc(100% - 44px) !important;
+                    gap: 4px !important;
+                    overflow: visible !important;
+                    margin-right: 0 !important;
+                  }
+                  .navbar-brand img, .navbar-logo {
+                    max-height: 26px !important;
+                    height: 26px !important;
+                  }
+                  .navbar-brand .navbar-title, a.navbar-brand span {
+                    font-size: 0.90rem !important;
+                    font-weight: 500 !important;
+                    white-space: nowrap !important;
+                    overflow: visible !important;
+                    text-overflow: clip !important;
+                    letter-spacing: -0.02em !important;
+                  }
+                }
+                @media (max-width: 380px) {
+                  .navbar-brand img, .navbar-logo {
+                    max-height: 22px !important;
+                    height: 22px !important;
+                  }
+                  .navbar-brand .navbar-title, a.navbar-brand span {
+                    font-size: 0.80rem !important;
+                  }
+                }
+                </style></head>
 <body class="nav-fixed quarto-light">
 <div id="quarto-search-results"></div>
 <header class="headroom fixed-top" id="quarto-header">
