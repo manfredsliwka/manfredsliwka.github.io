@@ -1,11 +1,147 @@
-/* Additional CSS overrides */
-p {
-  font-size: 1.15rem;
-  line-height: 1.7;
+/* Custom styles and mobile responsive optimizations for Dr. Manfred Sliwka Website */
+
+/* Hide Quarto title block header completely */
+#title-block-header,
+.quarto-title-block,
+header#title-block-header,
+header.quarto-title-block,
+.quarto-title,
+h1.title,
+.title {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
 }
 
-.lead-text {
-  font-size: 1.25rem;
-  line-height: 1.8;
-  color: #2c3e50;
+/* Base styles */
+body {
+  font-family: 'EB Garamond', Georgia, serif;
+  color: #1c1c1c;
+  background-color: #ffffff;
+  font-size: 1.15rem;
+  line-height: 1.75;
+  -webkit-text-size-adjust: 100%;
+}
+
+.sites-title-box {
+  background-color: transparent;
+  border: none !important;
+  padding: 1.25rem 0;
+  text-align: center;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.sites-title-box h1 {
+  font-family: 'EB Garamond', serif;
+  font-size: 2.8rem;
+  font-weight: 400;
+  color: #1c4587;
+  margin: 0;
+  line-height: 1.2;
+  word-wrap: break-word;
+}
+
+.author-portrait-img {
+  width: 180px;
+  height: auto;
+  float: left;
+  margin-right: 2rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid #e0e0e0;
+}
+
+.book-card {
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+.book-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(28, 69, 135, 0.09) !important;
+  border-color: #cbd5e1 !important;
+}
+
+/* ==========================================================================
+   MOBILE OPTIMIZATIONS (Smartphones & Tablets < 768px)
+   ========================================================================== */
+
+@media (max-width: 768px) {
+  /* Dynamic font scaling for main page title */
+  .sites-title-box h1 {
+    font-size: 2.1rem !important;
+    padding: 0 0.5rem !important;
+  }
+
+  .container-main {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+
+  /* Centered author image on smartphones */
+  .author-portrait-img {
+    float: none !important;
+    display: block !important;
+    margin: 0 auto 1.5rem auto !important;
+    width: 160px !important;
+  }
+
+  /* Centered book detail covers on mobile */
+  .row.g-5 .col-md-4 {
+    margin-bottom: 1.5rem;
+  }
+
+  .row.g-5 .col-md-4 img {
+    margin: 0 auto;
+    display: block;
+  }
+
+  /* Navbar header text scaling */
+  .navbar-brand .navbar-title,
+  a.navbar-brand span {
+    font-size: 1.25rem !important;
+  }
+
+  .navbar-brand img, .navbar-logo {
+    max-height: 38px !important;
+    height: 38px !important;
+  }
+}
+
+@media (max-width: 576px) {
+  .sites-title-box h1 {
+    font-size: 1.85rem !important;
+  }
+
+  /* Vertical stack for book cards on small screens */
+  .book-card {
+    flex-direction: column !important;
+    align-items: center !important;
+    text-align: center !important;
+    padding: 1.25rem !important;
+  }
+
+  .book-card img {
+    margin-right: 0 !important;
+    margin-bottom: 1.25rem !important;
+    width: 130px !important;
+  }
+
+  .book-card .d-flex.flex-wrap {
+    justify-content: center !important;
+    width: 100%;
+    margin-top: 1rem;
+  }
+
+  .book-card .btn {
+    width: 100%;
+    margin-bottom: 0.35rem;
+  }
+
+  body {
+    font-size: 1.08rem;
+    line-height: 1.7;
+  }
 }
