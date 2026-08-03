@@ -1,5 +1,5 @@
 ---
-title: "Impressum"
+title: "Kontakt & Impressum"
 format:
   html:
     page-layout: full
@@ -8,9 +8,27 @@ format:
 ```{=html}
 <div class="container-main">
   <div class="sites-title-box">
-    <h1>Impressum</h1>
+    <h1>Kontakt & Impressum</h1>
   </div>
   <hr class="sites-divider">
-  <p>Diese Website wurde designed von Max Lindenthal : <a href="mailto:max.lindenthal@outlook.de">max.lindenthal@outlook.de</a></p>
+  
+  <div class="row g-4 my-3">
+    <div class="col-md-6">
+      <div class="p-4" style="background-color: #fafafa; border-left: 4px solid #1c4587; border-radius: 4px; height: 100%;">
+        <h3 style="margin-top: 0; color: #1c4587;">Kontakt</h3>
+        <p style="font-size: 1.1rem; margin-bottom: 0.75rem;"><strong>Inge Sliwka</strong></p>
+        <p style="margin-bottom: 0;">E-Mail: <a href="mailto:inge.sliwka@gmail.com" style="color: #1c4587; font-weight: 500;">inge.sliwka@gmail.com</a></p>
+      </div>
+    </div>
+    
+    <div class="col-md-6">
+      <div class="p-4" style="background-color: #fafafa; border-left: 4px solid #64748b; border-radius: 4px; height: 100%;">
+        <h3 style="margin-top: 0; color: #475569;">Website & Design</h3>
+        <p style="font-size: 1.05rem; margin-bottom: 0.75rem;">Diese Website wurde gestaltet von:</p>
+        <p style="margin-bottom: 0;"><strong>Max Lindenthal</strong><br>
+        E-Mail: <a href="mailto:max.lindenthal@outlook.de" style="color: #1c4587;">max.lindenthal@outlook.de</a></p>
+      </div>
+    </div>
+  </div>
 </div>
 ```

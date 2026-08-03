@@ -54,7 +54,7 @@ website:
             href: fuehrungsbriefe/b-die-fuehrungs-methode.qmd
           - text: "C. Die Führungs-Instrumente"
             href: fuehrungsbriefe/c-die-fuehrungs-instrumente.qmd
-      - text: "Impressum"
+      - text: "Kontakt & Impressum"
         href: impressum.qmd
 
   page-footer:
