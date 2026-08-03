@@ -28,8 +28,9 @@ format:
               "Manfred Sliwka gehört zu denen, die jungen Menschen Mut machen, Lebenshilfe geben und Werte vermitteln."
             </p>
           </div>
-          <div>
-            <a href="das-abenteuer-des-werdens.html" class="btn btn-sm btn-outline-primary" style="border-radius: 20px; font-weight: 500; padding: 0.35rem 1rem;">Buchdetails ansehen &rarr;</a>
+          <div class="d-flex flex-wrap gap-2">
+            <a href="das-abenteuer-des-werdens.html" class="btn btn-sm btn-outline-primary" style="border-radius: 20px; font-weight: 500; padding: 0.35rem 0.85rem;">Buchdetails &rarr;</a>
+            <a href="https://www.amazon.de/s?k=Das+Abenteuer+des+Werdens+Manfred+Sliwka" target="_blank" rel="noopener" class="btn btn-sm btn-warning" style="border-radius: 20px; font-weight: 600; padding: 0.35rem 0.85rem; background-color: #ff9900; border: none; color: #111;">Auf Amazon kaufen &nearr;</a>
           </div>
         </div>
       </div>
@@ -48,8 +49,9 @@ format:
               Ein Denkansatz für Führungskräfte jenseits aller modischen Theorien – mit beträchtlichem heuristischem Wert und praktischem Nutzen.
             </p>
           </div>
-          <div>
-            <a href="die-praxis-der-unternehmens-evolution.html" class="btn btn-sm btn-outline-primary" style="border-radius: 20px; font-weight: 500; padding: 0.35rem 1rem;">Buchdetails ansehen &rarr;</a>
+          <div class="d-flex flex-wrap gap-2">
+            <a href="die-praxis-der-unternehmens-evolution.html" class="btn btn-sm btn-outline-primary" style="border-radius: 20px; font-weight: 500; padding: 0.35rem 0.85rem;">Buchdetails &rarr;</a>
+            <a href="https://www.amazon.de/s?k=Die+Praxis+der+Unternehmens-Evolution+Manfred+Sliwka" target="_blank" rel="noopener" class="btn btn-sm btn-warning" style="border-radius: 20px; font-weight: 600; padding: 0.35rem 0.85rem; background-color: #ff9900; border: none; color: #111;">Auf Amazon kaufen &nearr;</a>
           </div>
         </div>
       </div>
@@ -68,8 +70,9 @@ format:
               "Einfache, aber zugleich geistreiche Antworten ... In einer fabelhaft einfachen und heiteren Sprache." (Hamburger Abendblatt)
             </p>
           </div>
-          <div>
-            <a href="opa-kannst-du-mir-den-urknall-erklaeren.html" class="btn btn-sm btn-outline-primary" style="border-radius: 20px; font-weight: 500; padding: 0.35rem 1rem;">Buchdetails ansehen &rarr;</a>
+          <div class="d-flex flex-wrap gap-2">
+            <a href="opa-kannst-du-mir-den-urknall-erklaeren.html" class="btn btn-sm btn-outline-primary" style="border-radius: 20px; font-weight: 500; padding: 0.35rem 0.85rem;">Buchdetails &rarr;</a>
+            <a href="https://www.amazon.de/s?k=Opa+kannst+du+mir+den+Urknall+erklaeren+Manfred+Sliwka" target="_blank" rel="noopener" class="btn btn-sm btn-warning" style="border-radius: 20px; font-weight: 600; padding: 0.35rem 0.85rem; background-color: #ff9900; border: none; color: #111;">Auf Amazon kaufen &nearr;</a>
           </div>
         </div>
       </div>
@@ -88,8 +91,9 @@ format:
               Exzellente Struktur, wertvolle Begrifflichkeiten und ein geistiger Werkzeugkasten von hohem Wert für Führungskräfte.
             </p>
           </div>
-          <div>
-            <a href="denkschule-evolution.html" class="btn btn-sm btn-outline-primary" style="border-radius: 20px; font-weight: 500; padding: 0.35rem 1rem;">Buchdetails ansehen &rarr;</a>
+          <div class="d-flex flex-wrap gap-2">
+            <a href="denkschule-evolution.html" class="btn btn-sm btn-outline-primary" style="border-radius: 20px; font-weight: 500; padding: 0.35rem 0.85rem;">Buchdetails &rarr;</a>
+            <a href="https://www.amazon.de/s?k=Denkschule+Evolution+Manfred+Sliwka" target="_blank" rel="noopener" class="btn btn-sm btn-warning" style="border-radius: 20px; font-weight: 600; padding: 0.35rem 0.85rem; background-color: #ff9900; border: none; color: #111;">Auf Amazon kaufen &nearr;</a>
           </div>
         </div>
       </div>
@@ -108,8 +112,9 @@ format:
               Erkenntnisse zu werteorientiertem Handeln verständlich zusammengefasst – als Appell ohne erhobenen Zeigefinger.
             </p>
           </div>
-          <div>
-            <a href="raubtier-strategie-oder-faultier-intelligenz.html" class="btn btn-sm btn-outline-primary" style="border-radius: 20px; font-weight: 500; padding: 0.35rem 1rem;">Buchdetails ansehen &rarr;</a>
+          <div class="d-flex flex-wrap gap-2">
+            <a href="raubtier-strategie-oder-faultier-intelligenz.html" class="btn btn-sm btn-outline-primary" style="border-radius: 20px; font-weight: 500; padding: 0.35rem 0.85rem;">Buchdetails &rarr;</a>
+            <a href="https://www.amazon.de/s?k=Raubtier+Strategie+oder+Faultier+Intelligenz+Manfred+Sliwka" target="_blank" rel="noopener" class="btn btn-sm btn-warning" style="border-radius: 20px; font-weight: 600; padding: 0.35rem 0.85rem; background-color: #ff9900; border: none; color: #111;">Auf Amazon kaufen &nearr;</a>
           </div>
         </div>
       </div>

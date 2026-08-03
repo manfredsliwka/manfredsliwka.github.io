@@ -14,6 +14,9 @@ format:
   <div class="row g-5 my-3">
     <div class="col-md-4 text-center">
       <img src="../assets/raubtier-strategie-oder-faultier-intelligenz.png" alt="Raubtier-Strategie oder Faultier-Intelligenz?" style="max-width: 200px; height: auto; border-radius: 4px; box-shadow: 0 8px 18px rgba(0,0,0,0.12);">
+      <div class="mt-4">
+        <a href="https://www.amazon.de/s?k=Raubtier+Strategie+oder+Faultier+Intelligenz+Manfred+Sliwka" target="_blank" rel="noopener" class="btn btn-warning w-100" style="border-radius: 20px; font-weight: 600; padding: 0.5rem 1rem; background-color: #ff9900; border: none; color: #111;">Auf Amazon kaufen &nearr;</a>
+      </div>
     </div>
     <div class="col-md-8">
       <h2 style="margin-top: 0; color: #1c4587;">Raubtier-Strategie oder Faultier-Intelligenz?</h2>
