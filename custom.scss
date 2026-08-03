@@ -14,6 +14,7 @@ body {
   background-color: #ffffff;
   font-size: 1.15rem;
   line-height: 1.75;
+  -webkit-text-size-adjust: 100%;
 }
 
 /* Hide default Quarto title block header completely across all pages */
@@ -44,13 +45,13 @@ h1.title,
 .navbar-brand {
   display: flex !important;
   align-items: center !important;
-  gap: 1.25rem !important;
+  gap: 1rem !important;
   text-decoration: none !important;
 }
 
 .navbar-brand img, .navbar-logo {
-  max-height: 48px !important;
-  height: 48px !important;
+  max-height: 44px !important;
+  height: 44px !important;
   width: auto !important;
   display: inline-block !important;
 }
@@ -80,14 +81,14 @@ a.navbar-brand span {
   color: #1c4587 !important;
 }
 
-/* Title Box (No border outline) */
+/* Title Box */
 .sites-title-box {
   background-color: transparent;
   border: none !important;
   padding: 1.25rem 0;
   text-align: center;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .sites-title-box h1 {
@@ -96,12 +97,14 @@ a.navbar-brand span {
   font-weight: 400;
   color: #1c4587;
   margin: 0;
+  line-height: 1.2;
+  word-wrap: break-word;
 }
 
 .sites-divider {
   border: 0;
   border-top: 1px solid #e2e8f0;
-  margin-top: 1.5rem;
+  margin-top: 1rem;
   margin-bottom: 2rem;
 }
 
@@ -163,4 +166,106 @@ a:hover {
   transform: translateY(-4px);
   box-shadow: 0 12px 24px rgba(28, 69, 135, 0.09) !important;
   border-color: #cbd5e1 !important;
+}
+
+/* Touch-friendly buttons */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 40px;
+}
+
+/* ==========================================================================
+   MOBILE OPTIMIZATIONS (Smartphones & Tablets < 768px)
+   ========================================================================== */
+
+@media (max-width: 768px) {
+  /* Smaller, perfectly scaled title font for mobile screens */
+  .sites-title-box h1 {
+    font-size: 2.1rem;
+    padding: 0 0.5rem;
+  }
+
+  .container-main {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  /* Unfloat author portrait image on mobile so it centers nicely above bio text */
+  .author-portrait-img {
+    float: none !important;
+    display: block !important;
+    margin: 0 auto 1.5rem auto !important;
+    width: 160px !important;
+  }
+
+  /* Book detail pages: center book cover image on mobile */
+  .row.g-5 .col-md-4 {
+    margin-bottom: 1.5rem;
+  }
+
+  .row.g-5 .col-md-4 img {
+    margin: 0 auto;
+    display: block;
+  }
+
+  /* Mobile Navbar tweaks */
+  .navbar-brand .navbar-title,
+  a.navbar-brand span {
+    font-size: 1.3rem !important;
+  }
+
+  .navbar-brand img, .navbar-logo {
+    max-height: 38px !important;
+    height: 38px !important;
+  }
+
+  /* Mobile Führungsbriefe tables: ensure full width and touch spacing */
+  .table-responsive {
+    border-radius: 6px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  }
+
+  .table td, .table th {
+    padding: 0.85rem 0.65rem;
+    font-size: 0.98rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .sites-title-box h1 {
+    font-size: 1.85rem;
+  }
+
+  /* Stack book card content vertically on narrow smartphone screens */
+  .book-card {
+    flex-direction: column !important;
+    align-items: center !important;
+    text-align: center !important;
+    padding: 1.25rem !important;
+  }
+
+  .book-card img {
+    margin-right: 0 !important;
+    margin-bottom: 1.25rem !important;
+    width: 130px !important;
+  }
+
+  .book-card .d-flex.flex-wrap {
+    justify-content: center !important;
+    width: 100%;
+    margin-top: 1rem;
+  }
+
+  .book-card .btn {
+    width: 100%;
+    margin-bottom: 0.35rem;
+  }
+
+  /* Ensure body text stays easily readable without tiny fonts */
+  body {
+    font-size: 1.08rem;
+    line-height: 1.7;
+  }
 }
